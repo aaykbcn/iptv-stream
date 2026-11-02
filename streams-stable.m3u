@@ -1,0 +1,2073 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" group-title="央视",CCTV12社会与法
+http://8.137.121.66:20241/673168185
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" group-title="央视",CCTV14少儿
+http://8.137.121.66:20241/624878440
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" group-title="央视",CCTV1综合
+http://8.137.121.66:20241/608807420
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="央视",CCTV2财经
+http://8.137.121.66:20241/631780532
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" group-title="央视",CCTV4中文国际
+http://8.137.121.66:20241/631780421
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="央视",CCTV6电影
+http://8.137.121.66:20241/624878396
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="央视",CCTV8电视剧
+http://8.137.121.66:20241/624878356
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" group-title="代理央卫1",CCTV-16奥林匹克
+http://204.12.221.218:8181/3m1080p/cctv16.m3u8
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV-女性时尚" group-title="代理央卫1",CCTV-女性时尚
+http://204.12.221.218:8181/3m1080p/nxss.m3u8
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV-女性时尚" group-title="代理央卫1",CCTV-女性时尚
+http://107.150.60.122/live/nxss.m3u8
+http://173.208.212.130:8181/720p/nxss.m3u8
+http://198.204.228.26/live/nxss.m3u8
+http://192.151.150.154/live/nxss.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+#EXTINF:-1 tvg-id="中国教育2" tvg-name="中国教育2" group-title="代理央卫1",中国教育2
+http://204.12.221.218:8181/3m1080p/cetv2.m3u8
+#EXTINF:-1 tvg-id="中国教育4" tvg-name="中国教育4" group-title="代理央卫1",中国教育4
+http://204.12.221.218:8181/3m1080p/cetv4.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" group-title="代理央卫1",北京卡酷少儿
+http://204.12.221.218:8181/3m1080p/btvkk.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" group-title="代理央卫1",北京卡酷少儿
+http://107.150.60.122/live/btvkk.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
+http://198.204.228.26/live/btvkk.m3u8
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="代理央卫1",山东教育卫视
+http://204.12.221.218:8181/3m1080p/sdjy.m3u8
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" group-title="央视频道",CCTV-10科教
+http://112.92.129.95:9898/hls/28/index.m3u8
+http://183.129.255.66:8480/hls/11/index.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.54:9818
+http://103.236.77.86:29824/624878405
+http://36.110.54.118:866/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" group-title="央视频道",CCTV-11戏曲
+http://112.92.129.95:9898/hls/29/index.m3u8
+http://183.129.255.66:8480/hls/12/index.m3u8
+http://222.213.105.65:7788/667987558
+http://103.236.77.86:29824/667987558
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" group-title="央视频道",CCTV-12社会与法
+http://112.92.129.95:9898/hls/30/index.m3u8
+http://183.129.255.66:8480/hls/13/index.m3u8
+http://36.110.54.118:866/hls/11/index.m3u8
+http://103.236.77.86:29824/673168185
+http://222.213.105.65:7788/673168185
+#EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" group-title="央视频道",CCTV-13新闻
+http://112.92.129.95:9898/hls/31/index.m3u8
+http://183.129.255.66:8480/hls/14/index.m3u8
+http://222.213.105.65:7788/608807423
+http://www.ikerobot.com:1234/608807423
+http://103.236.77.86:29824/608807423
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" group-title="央视频道",CCTV-14少儿
+http://112.92.129.95:9898/hls/32/index.m3u8
+http://183.129.255.66:8480/hls/15/index.m3u8
+http://36.110.54.118:866/hls/12/index.m3u8
+http://222.213.105.65:7788/624878440
+http://103.236.77.86:29824/624878440
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" group-title="央视频道",CCTV-14少儿
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视频道",CCTV-15音乐
+http://112.92.129.95:9898/hls/33/index.m3u8
+http://183.129.255.66:8480/hls/16/index.m3u8
+http://222.213.105.65:7788/673168223
+http://103.236.77.86:29824/673168223
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视频道",CCTV-15音乐
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" group-title="央视频道",CCTV-17农业农村
+http://112.92.129.95:9898/hls/34/index.m3u8
+http://183.129.255.66:8480/hls/18/index.m3u8
+http://222.213.105.65:7788/673168256
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" group-title="央视频道",CCTV-17农业农村
+http://204.12.221.218:8181/3m1080p/cctv17.m3u8
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
+http://112.92.129.95:9898/hls/18/index.m3u8
+http://183.129.255.66:8480/hls/1/index.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.19:9614
+http://36.110.54.118:866/hls/1/index.m3u8
+http://222.213.105.65:7788/608807420
+http://103.236.77.86:29824/608807420
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
+http://112.92.129.95:9898/hls/19/index.m3u8
+http://183.129.255.66:8480/hls/2/index.m3u8
+http://36.110.54.118:866/hls/2/index.m3u8
+http://222.213.105.65:7788/631780532
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" group-title="央视频道",CCTV-3综艺
+http://www.frankgb.cn:4022/udp/239.49.8.74:8000
+http://222.213.105.65:7788/624878271
+http://36.110.54.118:866/hls/3/index.m3u8
+http://112.92.129.95:9898/hls/20/index.m3u8
+http://183.129.255.66:8480/hls/3/index.m3u8
+http://103.236.77.86:29824/624878271
+http://www.ikerobot.com:1234/624878271
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" group-title="央视频道",CCTV-3综艺
+http://204.12.221.218:8181/3m1080p/cctv3.m3u8
+#EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
+http://36.110.54.118:866/hls/4/index.m3u8
+http://183.129.255.66:8480/hls/4/index.m3u8
+http://222.213.105.65:7788/631780421
+http://112.92.129.95:9898/hls/21/index.m3u8
+http://103.236.77.86:29824/631780421
+#EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
+http://204.12.221.218:8181/3m1080p/cctv4.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" group-title="央视频道",CCTV-5+体育赛事
+http://112.92.129.95:9898/hls/23/index.m3u8
+http://183.129.255.66:8480/hls/6/index.m3u8
+http://222.213.105.65:7788/641886773
+http://36.110.54.118:866/hls/13/index.m3u8
+http://103.236.77.86:29824/641886773
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视频道",CCTV-5体育
+http://112.92.129.95:9898/hls/22/index.m3u8
+http://183.129.255.66:8480/hls/5/index.m3u8
+http://36.110.54.118:866/hls/5/index.m3u8
+http://222.213.105.65:7788/641886683
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视频道",CCTV-6电影
+http://112.92.129.95:9898/hls/24/index.m3u8
+http://183.129.255.66:8480/hls/7/index.m3u8
+http://36.110.54.118:866/hls/6/index.m3u8
+http://222.213.105.65:7788/624878396
+http://103.236.77.86:29824/624878396
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视频道",CCTV-6电影
+http://204.12.221.218:8181/3m1080p/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" group-title="央视频道",CCTV-7国防军事
+http://112.92.129.95:9898/hls/25/index.m3u8
+http://36.110.54.118:866/hls/7/index.m3u8
+http://183.129.255.66:8480/hls/8/index.m3u8
+http://222.213.105.65:7788/673168121
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" group-title="央视频道",CCTV-8电视剧
+http://112.92.129.95:9898/hls/26/index.m3u8
+http://222.213.105.65:7788/624878356
+http://103.236.77.86:29824/624878356
+http://36.110.54.118:866/hls/8/index.m3u8
+http://183.129.255.66:8480/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" group-title="央视频道",CCTV-8电视剧
+http://204.12.221.218:8181/3m1080p/cctv8.m3u8
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" group-title="央视频道",CCTV-9纪录
+http://112.92.129.95:9898/hls/27/index.m3u8
+http://183.129.255.66:8480/hls/10/index.m3u8
+http://36.110.54.118:866/hls/9/index.m3u8
+http://222.213.105.65:7788/673168140
+http://207.56.13.146:81/cdnlive/CCTV-9.m3u8
+http://103.236.77.86:29824/673168140
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV-世界地理" group-title="央视频道",CCTV-世界地理
+http://173.208.212.130:8181/720p/sjdl.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+http://107.150.60.122/live/sjdl.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+http://198.204.228.26/live/sjdl.m3u8
+http://192.151.150.154/live/sjdl.m3u8
+#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV-兵器科技" group-title="央视频道",CCTV-兵器科技
+http://173.208.212.130:8181/720p/gfjs.m3u8
+http://107.150.60.122/live/gfjs.m3u8
+http://198.204.228.26/live/gfjs.m3u8
+http://192.151.150.154/live/gfjs.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+http://bztv.tvbus.cc:8081/cdnlive/gfjs.m3u8
+#EXTINF:-1 tvg-id="CCTV-卫生健康" tvg-name="CCTV-卫生健康" group-title="央视频道",CCTV-卫生健康
+http://173.208.212.130:8181/720p/wsjk.m3u8
+http://107.150.60.122/live/wsjk.m3u8
+http://192.151.150.154/live/wsjk.m3u8
+http://198.204.228.26/live/wsjk.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" group-title="央视频道",CCTV-央视台球
+http://192.151.150.154/live/ystq.m3u8
+http://173.208.212.130:8181/720p/ystq.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+http://198.204.228.26/live/ystq.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/ystq.m3u8
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV-央视文化精品" group-title="央视频道",CCTV-央视文化精品
+http://192.151.150.154/live/ysjp.m3u8
+http://173.208.212.130:8181/720p/ysjp.m3u8
+http://198.204.228.26/live/ysjp.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" group-title="央视频道",CCTV-怀旧剧场
+http://192.151.150.154/live/hjjc.m3u8
+http://198.204.228.26/live/hjjc.m3u8
+http://107.150.60.122/live/hjjc.m3u8
+http://173.208.212.130:8181/720p/hjjc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+http://bztv.tvbus.cc:8081/cdnlive/hjjc.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV-电视指南" group-title="央视频道",CCTV-电视指南
+http://192.151.150.154/live/dszn.m3u8
+http://107.150.60.122/live/dszn.m3u8
+http://198.204.228.26/live/dszn.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
+http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" group-title="央视频道",CCTV-第一剧场
+http://173.208.212.130:8181/720p/dyjc.m3u8
+http://198.204.228.26/live/dyjc.m3u8
+http://107.150.60.122/live/dyjc.m3u8
+http://192.151.150.154/live/dyjc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+http://bztv.tvbus.cc:8081/cdnlive/dyjc.m3u8
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV-风云剧场" group-title="央视频道",CCTV-风云剧场
+http://173.208.212.130:8181/720p/fyjc.m3u8
+http://192.151.150.154/live/fyjc.m3u8
+http://198.204.228.26/live/fyjc.m3u8
+http://107.150.60.122/live/fyjc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+http://bztv.tvbus.cc:8081/cdnlive/fyjc.m3u8
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV-风云足球" group-title="央视频道",CCTV-风云足球
+http://192.151.150.154/live/fyzq.m3u8
+http://173.208.212.130:8181/720p/fyzq.m3u8
+http://107.150.60.122/live/fyzq.m3u8
+http://198.204.228.26/live/fyzq.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+http://bztv.tvbus.cc:8081/cdnlive/fyzq.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV-风云音乐" group-title="央视频道",CCTV-风云音乐
+http://192.151.150.154/live/fyyy.m3u8
+http://173.208.212.130:8181/720p/fyyy.m3u8
+http://198.204.228.26/live/fyyy.m3u8
+http://107.150.60.122/live/fyyy.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV-高尔夫网球" group-title="央视频道",CCTV-高尔夫网球
+http://173.208.212.130:8181/720p/gefwq.m3u8
+http://192.151.150.154/live/gefwq.m3u8
+http://198.204.228.26/live/gefwq.m3u8
+http://107.150.60.122/live/gefwq.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+http://bztv.tvbus.cc:8081/cdnlive/gefwq.m3u8
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" group-title="央视频道",CCTV16奥林匹克
+http://112.92.129.95:9898/hls/127/index.m3u8
+http://183.129.255.66:8480/hls/17/index.m3u8
+http://198.204.228.26/live/cctv16hd.m3u8
+http://107.150.60.122/live/cctv16hd.m3u8
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" group-title="央视频道",CCTV4K超高清
+http://107.150.60.122/live/cctv4k.m3u8
+http://198.204.228.26/live/cctv4k.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+http://192.151.150.154/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" group-title="央视频道",CCTV8K超高清
+http://192.151.150.154/live/cctv8k.m3u8
+http://107.150.60.122/live/cctv8k.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="中央新影-发现之旅" tvg-name="中央新影-发现之旅" group-title="央视频道",中央新影-发现之旅
+http://222.213.105.65:7788/624878970
+http://103.236.77.86:29824/624878970
+http://107.150.60.122/live/fxzl.m3u8
+http://192.151.150.154/live/fxzl.m3u8
+http://198.204.228.26/live/fxzl.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+http://www.ikerobot.com:1234/624878970
+#EXTINF:-1 tvg-id="中央新影-发现之旅" tvg-name="中央新影-发现之旅" group-title="央视频道",中央新影-发现之旅
+http://204.12.221.218:8181/3m1080p/fxzl.m3u8
+#EXTINF:-1 tvg-id="中央新影-老故事" tvg-name="中央新影-老故事" group-title="央视频道",中央新影-老故事
+http://103.236.77.86:29824/884121956
+http://222.213.105.65:7788/884121956
+http://107.150.60.122/live/lgs.m3u8
+http://192.151.150.154/live/lgs.m3u8
+http://198.204.228.26/live/lgs.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
+#EXTINF:-1 tvg-id="中央新影-老故事" tvg-name="中央新影-老故事" group-title="央视频道",中央新影-老故事
+http://204.12.221.218:8181/3m1080p/lgs.m3u8
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" group-title="央视频道",中学生
+http://222.213.105.65:7788/708869532
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" group-title="央视国际",CCTV4欧洲
+http://222.213.105.65:7788/608807419
+http://103.236.77.86:29824/608807419
+http://8.137.121.66:20241/608807419
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" group-title="央视国际",CCTV4美洲
+http://103.236.77.86:29824/608807416
+http://222.213.105.65:7788/608807416
+http://8.137.121.66:20241/608807416
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="央视国际",CETV1
+http://222.213.105.65:7788/923287154
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+http://8.137.121.66:20241/923287154
+http://103.236.77.86:29824/923287154
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" group-title="央视国际",CETV2
+http://222.213.105.65:7788/923287211
+http://103.236.77.86:29824/923287211
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视国际",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+http://222.213.105.65:7788/609017205
+http://103.236.77.86:29824/609017205
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视国际",CGTN俄语
+http://222.213.105.65:7788/609006446
+http://103.236.77.86:29824/609006446
+http://8.137.121.66:20241/609006446
+#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" group-title="央视国际",CGTN外语纪录
+http://222.213.105.65:7788/609006487
+http://103.236.77.86:29824/609006487
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视国际",CGTN法语
+http://222.213.105.65:7788/609006476
+http://103.236.77.86:29824/609006476
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="央视国际",CGTN西班牙语
+http://103.236.77.86:29824/609006450
+http://222.213.105.65:7788/609006450
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="央视国际",CGTN西班牙语
+http://8.137.121.66:20241/609006450
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" group-title="央视国际",CGTN阿拉伯语
+http://222.213.105.65:7788/609154345
+http://103.236.77.86:29824/609154345
+#EXTINF:-1 tvg-id="熊猫频道01" tvg-name="熊猫频道01" group-title="大熊猫直播",熊猫频道01
+http://222.213.105.65:7788/609158151
+#EXTINF:-1 tvg-id="熊猫频道01高清" tvg-name="熊猫频道01高清" group-title="大熊猫直播",熊猫频道01高清
+http://8.137.121.66:20241/609158151
+#EXTINF:-1 tvg-id="熊猫频道1" tvg-name="熊猫频道1" group-title="大熊猫直播",熊猫频道1
+http://222.213.105.65:7788/608933610
+http://103.236.77.86:29824/608933610
+http://8.137.121.66:20241/608933610
+#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" group-title="大熊猫直播",熊猫频道10
+http://222.213.105.65:7788/609169285
+http://103.236.77.86:29824/609169285
+#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" group-title="大熊猫直播",熊猫频道10
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+http://8.137.121.66:20241/609169285
+#EXTINF:-1 tvg-id="熊猫频道2" tvg-name="熊猫频道2" group-title="大熊猫直播",熊猫频道2
+http://222.213.105.65:7788/608933640
+http://103.236.77.86:29824/608933640
+http://8.137.121.66:20241/608933640
+#EXTINF:-1 tvg-id="熊猫频道3" tvg-name="熊猫频道3" group-title="大熊猫直播",熊猫频道3
+http://222.213.105.65:7788/608934619
+http://8.137.121.66:20241/608934619
+http://103.236.77.86:29824/608934619
+#EXTINF:-1 tvg-id="熊猫频道4" tvg-name="熊猫频道4" group-title="大熊猫直播",熊猫频道4
+http://222.213.105.65:7788/608934721
+http://103.236.77.86:29824/608934721
+http://www.ikerobot.com:1234/608934721
+#EXTINF:-1 tvg-id="熊猫频道5" tvg-name="熊猫频道5" group-title="大熊猫直播",熊猫频道5
+http://103.236.77.86:29824/608935104
+http://222.213.105.65:7788/608935104
+#EXTINF:-1 tvg-id="熊猫频道6" tvg-name="熊猫频道6" group-title="大熊猫直播",熊猫频道6
+http://222.213.105.65:7788/608935797
+http://103.236.77.86:29824/608935797
+#EXTINF:-1 tvg-id="熊猫频道7" tvg-name="熊猫频道7" group-title="大熊猫直播",熊猫频道7
+http://222.213.105.65:7788/609169286
+http://103.236.77.86:29824/609169286
+#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" group-title="大熊猫直播",熊猫频道8
+http://222.213.105.65:7788/609169287
+http://103.236.77.86:29824/609169287
+#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" group-title="大熊猫直播",熊猫频道8
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+http://8.137.121.66:20241/609169287
+#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" group-title="大熊猫直播",熊猫频道9
+http://222.213.105.65:7788/609169226
+http://103.236.77.86:29824/609169226
+#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" group-title="大熊猫直播",熊猫频道9
+http://8.137.121.66:20241/609169226
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" group-title="凤凰秀",凤凰中文台
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" group-title="凤凰秀",凤凰资讯台
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" group-title="凤凰秀",凤凰香港台
+http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="秒播卫视",三沙卫视
+http://www.frankgb.cn:4022/udp/239.49.0.167:8000
+http://222.213.105.65:7788/961023778
+http://103.236.77.86:29824/961023778
+http://107.150.60.122/live/ssws.m3u8
+http://192.151.150.154/live/ssws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+http://www.ikerobot.com:1234/961023778
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="秒播卫视",东南卫视
+http://112.92.129.95:9898/hls/101/index.m3u8
+http://207.56.13.146:81/cdnlive/dnws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/dnws.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="秒播卫视",东南卫视
+http://204.12.221.218:8181/3m1080p/dnws.m3u8
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" group-title="秒播卫视",东南卫视HD
+http://198.204.228.26/live/dnwshd.m3u8
+http://107.150.60.122/live/dnwshd.m3u8
+http://192.151.150.154/live/dnwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="秒播卫视",东方卫视
+http://112.92.129.95:9898/hls/36/index.m3u8
+http://183.129.255.66:8480/hls/30/index.m3u8
+http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
+http://103.236.77.86:29824/651632648
+http://222.213.105.65:7788/651632648
+http://173.208.212.130:8181/720p/dfws.m3u8
+http://207.56.13.146:81/cdnlive/dfws.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+http://bztv.tvbus.cc:8081/cdnlive/dfws.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="秒播卫视",东方卫视
+http://204.12.221.218:8181/3m1080p/dfws.m3u8
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" group-title="秒播卫视",东方卫视HD
+http://107.150.60.122/live/dfwshd.m3u8
+http://192.151.150.154/live/dfwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+http://198.204.228.26/live/dfwshd.m3u8
+#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" group-title="秒播卫视",中国农林卫视
+http://222.213.105.65:7788/956904896
+http://103.236.77.86:29824/956904896
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="秒播卫视",云南卫视
+http://183.129.255.66:8480/hls/40/index.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/ynws.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="秒播卫视",云南卫视
+http://204.12.221.218:8181/3m1080p/ynws.m3u8
+#EXTINF:-1 tvg-id="云南卫视HD" tvg-name="云南卫视HD" group-title="秒播卫视",云南卫视HD
+http://107.150.60.122/live/ynwshd.m3u8
+http://192.151.150.154/live/ynwshd.m3u8
+http://198.204.228.26/live/ynwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="秒播卫视",兵团卫视
+http://112.92.129.95:9898/hls/77/index.m3u8
+http://by4.nty.tv189.cn/live/tm-ysbtws-4000k.m3u8
+http://www.ikerobot.com:1234/956923145
+http://222.213.105.65:7788/956923145
+http://107.150.60.122/live/btws.m3u8
+http://198.204.228.26/live/btws.m3u8
+http://192.151.150.154/live/btws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+http://103.236.77.86:29824/956923145
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="秒播卫视",内蒙古卫视
+http://112.92.129.95:9898/hls/151/index.m3u8
+http://183.129.255.66:8480/hls/48/index.m3u8
+http://107.150.60.122/live/nmgws.m3u8
+http://192.151.150.154/live/nmgws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+http://207.56.13.146:81/cdnlive/nmgws.m3u8
+http://198.204.228.26/live/nmgws.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="秒播卫视",北京卫视
+http://112.92.129.95:9898/hls/37/index.m3u8
+http://103.236.77.86:29824/630287636
+http://222.213.105.65:7788/630287636
+http://183.129.255.66:8480/hls/29/index.m3u8
+http://173.208.212.130:8181/720p/bjws.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/bjws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="秒播卫视",北京卫视
+http://204.12.221.218:8181/3m1080p/bjws.m3u8
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" group-title="秒播卫视",北京卫视HD
+http://192.151.150.154/live/bjwshd.m3u8
+http://107.150.60.122/live/bjwshd.m3u8
+http://198.204.228.26/live/bjwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="秒播卫视",厦门卫视
+http://198.204.228.26/live/xmws.m3u8
+http://107.150.60.122/live/xmws.m3u8
+http://192.151.150.154/live/xmws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="秒播卫视",吉林卫视
+http://112.92.129.95:9898/hls/58/index.m3u8
+http://222.213.105.65:7788/947472500
+http://by4.nty.tv189.cn/live/tm-ysjlws-4000k.m3u8
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" group-title="秒播卫视",吉林卫视HD
+http://107.150.60.122/live/jlwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="秒播卫视",四川卫视
+http://112.92.129.95:9898/hls/47/index.m3u8
+http://183.129.255.66:8480/hls/36/index.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/scws.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="秒播卫视",四川卫视
+http://204.12.221.218:8181/3m1080p/scws.m3u8
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" group-title="秒播卫视",四川卫视HD
+http://192.151.150.154/live/scwshd.m3u8
+http://107.150.60.122/live/scwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="秒播卫视",大湾区卫视
+http://222.213.105.65:7788/608917627
+http://112.92.129.95:9898/hls/8/index.m3u8
+http://192.151.150.154/live/nfws.m3u8
+http://107.150.60.122/live/nfws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+http://198.204.228.26/live/nfws.m3u8
+http://8.137.121.66:20241/608917627
+#EXTINF:-1 tvg-id="大湾区卫视(国际版)" tvg-name="大湾区卫视(国际版)" group-title="秒播卫视",大湾区卫视(国际版)
+http://198.204.228.26/live/gdgj.m3u8
+http://192.151.150.154/live/gdgj.m3u8
+http://107.150.60.122/live/gdgj.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="秒播卫视",天津卫视
+http://112.92.129.95:9898/hls/43/index.m3u8
+http://183.129.255.66:8480/hls/42/index.m3u8
+http://192.151.150.154/live/tjwshd.m3u8
+http://207.56.13.146:81/cdnlive/tjws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/tjws.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="秒播卫视",天津卫视
+http://204.12.221.218:8181/3m1080p/tjws.m3u8
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" group-title="秒播卫视",天津卫视HD
+http://107.150.60.122/live/tjwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="秒播卫视",宁夏卫视
+http://222.213.105.65:7788/738910535
+http://by4.nty.tv189.cn/tm-ysnxws-4000k.m3u8
+http://112.92.129.95:9898/hls/68/index.m3u8
+http://107.150.60.122/live/nxws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+http://192.151.150.154/live/nxws.m3u8
+http://8.137.121.66:20241/738910535
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="秒播卫视",安徽卫视
+http://112.92.129.95:9898/hls/39/index.m3u8
+http://183.129.255.66:8480/hls/28/index.m3u8
+http://207.56.13.146:81/cdnlive/ahws.m3u8
+http://173.208.212.130:8181/720p/ahws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/ahws.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="秒播卫视",安徽卫视
+http://204.12.221.218:8181/3m1080p/ahws.m3u8
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" group-title="秒播卫视",安徽卫视HD
+http://107.150.60.122/live/ahwshd.m3u8
+http://198.204.228.26/live/ahwshd.m3u8
+http://192.151.150.154/live/ahwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="秒播卫视",山东卫视
+http://183.129.255.66:8480/hls/35/index.m3u8
+http://112.92.129.95:9898/hls/41/index.m3u8
+http://192.151.150.154/live/sdwshd.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/sdws.m3u8
+http://207.56.13.146:81/cdnlive/sdws.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="秒播卫视",山东卫视
+http://204.12.221.218:8181/3m1080p/sdws.m3u8
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" group-title="秒播卫视",山东卫视HD
+http://107.150.60.122/live/sdwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="秒播卫视",山西卫视
+http://183.129.255.66:8480/hls/45/index.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/sxws.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="秒播卫视",山西卫视
+http://204.12.221.218:8181/3m1080p/sxws.m3u8
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-name="山西卫视HD" group-title="秒播卫视",山西卫视HD
+http://192.151.150.154/live/sxwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+http://107.150.60.122/live/sxwshd.m3u8
+http://198.204.228.26/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="秒播卫视",广东卫视
+http://183.129.255.66:8480/hls/31/index.m3u8
+http://222.213.105.65:7788/608831231
+http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
+http://112.92.129.95:9898/hls/1/index.m3u8
+http://207.56.13.146:81/cdnlive/gdws.m3u8
+http://173.208.212.130:8181/720p/gdws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="秒播卫视",广东卫视
+http://204.12.221.218:8181/3m1080p/gdws.m3u8
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" group-title="秒播卫视",广东卫视HD
+http://107.150.60.122/live/gdwshd.m3u8
+http://192.151.150.154/live/gdwshd.m3u8
+http://198.204.228.26/live/gdwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="秒播卫视",广西卫视
+http://112.92.129.95:9898/hls/64/index.m3u8
+http://207.56.13.146:81/cdnlive/gxws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/gxws.m3u8
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" group-title="秒播卫视",广西卫视HD
+http://107.150.60.122/live/gxwshd.m3u8
+http://198.204.228.26/live/gxwshd.m3u8
+http://192.151.150.154/live/gxwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="秒播卫视",新疆卫视
+http://by4.nty.tv189.cn/live/tm-dxxjws-4000k.m3u8
+http://112.92.129.95:9898/hls/61/index.m3u8
+http://192.151.150.154/live/xjws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+http://207.56.13.146:81/cdnlive/xjws.m3u8
+http://107.150.60.122/live/xjws.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="秒播卫视",江苏卫视
+http://112.92.129.95:9898/hls/38/index.m3u8
+http://183.129.255.66:8480/hls/33/index.m3u8
+http://222.213.105.65:7788/623899368
+http://173.208.212.130:8181/720p/jsws.m3u8
+http://173.208.212.130:8181/1080p/jsws.m3u8
+http://207.56.13.146:81/cdnlive/jsws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/jsws.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="秒播卫视",江苏卫视
+http://204.12.221.218:8181/3m1080p/jsws.m3u8
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" group-title="秒播卫视",江苏卫视HD
+http://107.150.60.122/live/jswshd.m3u8
+http://192.151.150.154/live/jswshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+http://198.204.228.26/live/jswshd.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="秒播卫视",江西卫视
+http://112.92.129.95:9898/hls/48/index.m3u8
+http://222.213.105.65:7788/783847495
+http://by4.nty.tv189.cn/live/tm-ysjxws-4000k.m3u8
+http://103.236.77.86:29824/783847495
+http://183.129.255.66:8480/hls/44/index.m3u8
+http://207.56.13.146:81/cdnlive/jxws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="秒播卫视",江西卫视
+http://204.12.221.218:8181/3m1080p/jxws.m3u8
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" group-title="秒播卫视",江西卫视HD
+http://198.204.228.26/live/jxwshd.m3u8
+http://107.150.60.122/live/jxwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+http://192.151.150.154/live/jxwshd.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="秒播卫视",河北卫视
+http://112.92.129.95:9898/hls/46/index.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.114:8000
+http://183.129.255.66:8480/hls/39/index.m3u8
+http://222.213.105.65:7788/962042070
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" group-title="秒播卫视",河北卫视HD
+http://107.150.60.122/live/hewshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="秒播卫视",河南卫视
+http://112.92.129.95:9898/hls/66/index.m3u8
+http://183.129.255.66:8480/hls/38/index.m3u8
+http://222.213.105.65:7788/790187291
+http://by4.nty.tv189.cn/live/tm-dxhenanws-4000k.m3u8
+http://8.137.121.66:20241/790187291
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" group-title="秒播卫视",河南卫视HD
+http://107.150.60.122/live/hawshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="秒播卫视",浙江卫视
+http://183.129.255.66:8480/hls/27/index.m3u8
+http://112.92.129.95:9898/hls/55/index.m3u8
+http://173.208.212.130:8181/720p/zjws.m3u8
+http://207.56.13.146:81/cdnlive/zjws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="秒播卫视",浙江卫视
+http://204.12.221.218:8181/3m1080p/zjws.m3u8
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" group-title="秒播卫视",浙江卫视HD
+http://107.150.60.122/live/zjwshd.m3u8
+http://192.151.150.154/live/zjwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+http://198.204.228.26/live/zjwshd.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="秒播卫视",海南卫视
+http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.83:8000
+http://103.236.77.86:29824/947472502
+http://222.213.105.65:7788/947472502
+http://207.56.13.146:81/cdnlive/lyws.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="秒播卫视",海南卫视
+http://204.12.221.218:8181/3m1080p/lyws.m3u8
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="秒播卫视",海峡卫视
+http://by4.nty.tv189.cn/live/tm-xphxws-4000k.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="秒播卫视",深圳卫视
+http://112.92.129.95:9898/hls/16/index.m3u8
+http://183.129.255.66:8480/hls/34/index.m3u8
+http://173.208.212.130:8181/720p/szws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8
+http://207.56.13.146:81/cdnlive/szws.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="秒播卫视",深圳卫视
+http://204.12.221.218:8181/3m1080p/szws.m3u8
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" group-title="秒播卫视",深圳卫视HD
+http://107.150.60.122/live/szwshd.m3u8
+http://192.151.150.154/live/szwshd.m3u8
+http://198.204.228.26/live/szwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="秒播卫视",湖北卫视
+http://112.92.129.95:9898/hls/40/index.m3u8
+http://183.129.255.66:8480/hls/41/index.m3u8
+http://by4.nty.tv189.cn/live/tm-dxhbws-4000k.m3u8
+http://222.213.105.65:7788/947472496
+http://bztv.tvbus.cc:8081/cdnlive/hbws.m3u8
+http://103.236.77.86:29824/947472496
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="秒播卫视",湖北卫视
+http://204.12.221.218:8181/3m1080p/hbws.m3u8
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" group-title="秒播卫视",湖北卫视HD
+http://107.150.60.122/live/hbwshd.m3u8
+http://192.151.150.154/live/hbwshd.m3u8
+http://198.204.228.26/live/hbwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="秒播卫视",湖南卫视
+http://112.92.129.95:9898/hls/35/index.m3u8
+http://183.129.255.66:8480/hls/32/index.m3u8
+http://173.208.212.130:8181/720p/hnws.m3u8
+http://173.208.212.130:8181/1080p/hnws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
+http://207.56.13.146:81/cdnlive/hnws.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="秒播卫视",湖南卫视
+http://204.12.221.218:8181/3m1080p/hnws.m3u8
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" group-title="秒播卫视",湖南卫视HD
+http://107.150.60.122/live/hnwshd.m3u8
+http://198.204.228.26/live/hnwshd.m3u8
+http://192.151.150.154/live/hnwshd.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="秒播卫视",甘肃卫视
+http://www.frankgb.cn:4022/udp/239.49.0.250:8000
+http://bztv.tvbus.cc:8081/cdnlive/gsws.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="秒播卫视",甘肃卫视
+http://204.12.221.218:8181/3m1080p/gsws.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" group-title="秒播卫视",甘肃卫视HD
+http://198.204.228.26/live/gswshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+http://192.151.150.154/live/gswshd.m3u8
+http://107.150.60.122/live/gswshd.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="秒播卫视",西藏卫视
+http://www.frankgb.cn:4022/udp/239.49.1.56:8000
+http://by4.nty.tv189.cn/live/tm-dxxzws-4000k.m3u8
+http://112.92.129.95:9898/hls/65/index.m3u8
+http://207.56.13.146:81/cdnlive/xzws.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="秒播卫视",贵州卫视
+http://112.92.129.95:9898/hls/49/index.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/gzws.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="秒播卫视",贵州卫视
+http://204.12.221.218:8181/3m1080p/gzws.m3u8
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" group-title="秒播卫视",贵州卫视HD
+http://107.150.60.122/live/gzwshd.m3u8
+http://198.204.228.26/live/gzwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+http://192.151.150.154/live/gzwshd.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="秒播卫视",辽宁卫视
+http://112.92.129.95:9898/hls/45/index.m3u8
+http://183.129.255.66:8480/hls/46/index.m3u8
+http://by4.nty.tv189.cn/live/tm-dxlnws-4000k.m3u8
+http://222.213.105.65:7788/630291707
+http://103.236.77.86:29824/630291707
+http://207.56.13.146:81/cdnlive/lnws.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/lnws.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="秒播卫视",辽宁卫视
+http://204.12.221.218:8181/3m1080p/lnws.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" group-title="秒播卫视",辽宁卫视HD
+http://192.151.150.154/live/lnwshd.m3u8
+http://107.150.60.122/live/lnwshd.m3u8
+http://198.204.228.26/live/lnwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="秒播卫视",重庆卫视
+http://by4.nty.tv189.cn/live/tm-xpcqws-4000k.m3u8
+http://112.92.129.95:9898/hls/44/index.m3u8
+http://183.129.255.66:8480/hls/37/index.m3u8
+http://222.213.105.65:7788/738910914
+http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
+http://207.56.13.146:81/cdnlive/cqws.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="秒播卫视",重庆卫视
+http://204.12.221.218:8181/3m1080p/cqws.m3u8
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" group-title="秒播卫视",重庆卫视HD
+http://192.151.150.154/live/cqwshd.m3u8
+http://107.150.60.122/live/cqwshd.m3u8
+http://198.204.228.26/live/cqwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="秒播卫视",陕西卫视
+http://112.92.129.95:9898/hls/57/index.m3u8
+http://183.129.255.66:8480/hls/43/index.m3u8
+http://by4.nty.tv189.cn/live/tm-yssxws-4000k.m3u8
+http://222.213.105.65:7788/738910838
+http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
+http://103.236.77.86:29824/738910838
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="秒播卫视",陕西卫视
+http://204.12.221.218:8181/3m1080p/snws.m3u8
+#EXTINF:-1 tvg-id="陕西卫视HD" tvg-name="陕西卫视HD" group-title="秒播卫视",陕西卫视HD
+http://192.151.150.154/live/snwshd.m3u8
+http://107.150.60.122/live/snwshd.m3u8
+http://198.204.228.26/live/snwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="秒播卫视",青海卫视
+http://www.frankgb.cn:4022/udp/239.49.0.81:8000
+http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
+http://103.236.77.86:29824/947472506
+http://222.213.105.65:7788/947472506
+http://107.150.60.122/live/qhws.m3u8
+http://192.151.150.154/live/qhws.m3u8
+http://198.204.228.26/live/qhws.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+http://207.56.13.146:81/cdnlive/qhws.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="秒播卫视",黑龙江卫视
+http://183.129.255.66:8480/hls/47/index.m3u8
+http://www.frankgb.cn:4022/udp/239.49.8.14:9426
+http://8.137.121.66:20241/738906901
+http://112.92.129.95:9898/hls/42/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" group-title="秒播卫视",黑龙江卫视HD
+http://107.150.60.122/live/hljwshd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="LIVE三立" tvg-name="LIVE三立" group-title="港台区域",LIVE三立
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" group-title="港台区域",TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="tvbs" tvg-name="tvbs" group-title="港台区域",tvbs
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" group-title="港台区域",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" group-title="港台区域",东森新闻
+http://211.72.174.95:8138/0.ts
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" group-title="港台区域",中天新闻
+http://iactive-clink.com:8081/live/111ztxw.m3u8
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+http://111.0.115.129:8081/live/000ztxw.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" group-title="港台区域",中视
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" group-title="港台区域",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" group-title="港台区域",公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" group-title="港台区域",华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" group-title="港台区域",华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" group-title="港台区域",台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" group-title="港台区域",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" group-title="港台区域",民视新闻
+http://211.72.174.95:8117/0.ts
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港台区域",翡翠台
+http://211.97.63.3:3443/hls/541/index.m3u8
+http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+#EXTINF:-1 tvg-id="香港C+" tvg-name="香港C+" group-title="港台区域",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" group-title="广东地区",广东4K超高清
+http://183.11.239.36:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" group-title="广东地区",广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="上虞文化影视" tvg-name="上虞文化影视" group-title="浙江地区",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-id="上虞新闻综合" tvg-name="上虞新闻综合" group-title="浙江地区",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" group-title="浙江地区",东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-id="余姚新闻综合" tvg-name="余姚新闻综合" group-title="浙江地区",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-id="兰溪新闻综合" tvg-name="兰溪新闻综合" group-title="浙江地区",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-id="嵊州综合" tvg-name="嵊州综合" group-title="浙江地区",嵊州综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-id="平湖新闻综合" tvg-name="平湖新闻综合" group-title="浙江地区",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" group-title="浙江地区",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-id="庆元电视台" tvg-name="庆元电视台" group-title="浙江地区",庆元电视台
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 tvg-id="新昌综合" tvg-name="新昌综合" group-title="浙江地区",新昌综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 tvg-id="普陀电视台" tvg-name="普陀电视台" group-title="浙江地区",普陀电视台
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" group-title="浙江地区",浙江国际
+http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" group-title="浙江地区",浙江少儿
+http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" group-title="浙江地区",浙江教科影视
+http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" group-title="浙江地区",浙江新闻
+http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" group-title="浙江地区",浙江民生休闲
+http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" group-title="浙江地区",浙江经济生活
+http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" group-title="浙江地区",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 tvg-id="缙云新闻综合" tvg-name="缙云新闻综合" group-title="浙江地区",缙云新闻综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 tvg-id="萧山生活" tvg-name="萧山生活" group-title="浙江地区",萧山生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-id="萧山综合" tvg-name="萧山综合" group-title="浙江地区",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="象山综合" tvg-name="象山综合" group-title="浙江地区",象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 tvg-id="青田电视台" tvg-name="青田电视台" group-title="浙江地区",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 tvg-id="龙泉电视台" tvg-name="龙泉电视台" group-title="浙江地区",龙泉电视台
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" group-title="江苏地区",南京十八生活
+http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" group-title="江苏地区",南京教科
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 tvg-id="南京教科频道" tvg-name="南京教科频道" group-title="江苏地区",南京教科频道
+http://222.213.105.65:7788/838153729
+http://103.236.77.86:29824/838153729
+http://8.137.121.66:20241/838153729
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" group-title="江苏地区",南京文旅纪录
+http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" group-title="江苏地区",南京新闻综合
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" group-title="江苏地区",南京新闻综合频道
+http://222.213.105.65:7788/838109047
+http://103.236.77.86:29824/838109047
+#EXTINF:-1 tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐" group-title="黑龙江地区",哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" group-title="黑龙江地区",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" group-title="黑龙江地区",哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" group-title="黑龙江地区",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+https://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" group-title="黑龙江地区",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨资讯" tvg-name="哈尔滨资讯" group-title="黑龙江地区",哈尔滨资讯
+https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" group-title="陕西地区",农林卫视
+http://gxlive.snrtv.com/nlws-SD.m3u8
+http://204.12.221.218:8181/3m1080p/snnl.m3u8
+#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" group-title="陕西地区",陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-id="陕西体育休闲频道" tvg-name="陕西体育休闲频道" group-title="陕西地区",陕西体育休闲频道
+http://103.236.77.86:29824/956909356
+http://www.ikerobot.com:1234/956909356
+http://222.213.105.65:7788/956909356
+#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西新闻资讯" group-title="陕西地区",陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 tvg-id="陕西新闻资讯频道" tvg-name="陕西新闻资讯频道" group-title="陕西地区",陕西新闻资讯频道
+http://103.236.77.86:29824/956909289
+http://222.213.105.65:7788/956909289
+#EXTINF:-1 tvg-id="陕西秦腔" tvg-name="陕西秦腔" group-title="陕西地区",陕西秦腔
+http://gxlive.snrtv.com/sx5-SD.m3u8
+#EXTINF:-1 tvg-id="陕西秦腔频道" tvg-name="陕西秦腔频道" group-title="陕西地区",陕西秦腔频道
+http://222.213.105.65:7788/956909303
+http://8.137.121.66:20241/956909303
+http://103.236.77.86:29824/956909303
+#EXTINF:-1 tvg-id="陕西西部电影" tvg-name="陕西西部电影" group-title="陕西地区",陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" group-title="陕西地区",陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1 tvg-id="陕西都市青春频道" tvg-name="陕西都市青春频道" group-title="陕西地区",陕西都市青春频道
+http://103.236.77.86:29824/956909358
+http://222.213.105.65:7788/956909358
+#EXTINF:-1 tvg-id="陕西银龄" tvg-name="陕西银龄" group-title="陕西地区",陕西银龄
+http://gxlive.snrtv.com/sx3-SD.m3u8
+#EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" group-title="陕西地区",陕西银龄频道
+http://222.213.105.65:7788/956909362
+http://www.ikerobot.com:1234/956909362
+#EXTINF:-1 tvg-id="宿州科教" tvg-name="宿州科教" group-title="安徽地区",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 tvg-id="万州三峡移民" tvg-name="万州三峡移民" group-title="重庆地区",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 tvg-id="丘北县电视台" tvg-name="丘北县电视台" group-title="云南地区",丘北县电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
+#EXTINF:-1 tvg-id="广南县电视台" tvg-name="广南县电视台" group-title="云南地区",广南县电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+#EXTINF:-1 tvg-id="文山市电视台" tvg-name="文山市电视台" group-title="云南地区",文山市电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+#EXTINF:-1 tvg-id="文山综合" tvg-name="文山综合" group-title="云南地区",文山综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="砚山县电视台" tvg-name="砚山县电视台" group-title="云南地区",砚山县电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 tvg-id="西畴县电视台" tvg-name="西畴县电视台" group-title="云南地区",西畴县电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="麻栗坡电视台" tvg-name="麻栗坡电视台" group-title="云南地区",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 tvg-id="兴隆综合" tvg-name="兴隆综合" group-title="河北地区",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="迁西综合" tvg-name="迁西综合" group-title="河北地区",迁西综合
+https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="邯郸公共" tvg-name="邯郸公共" group-title="河北地区",邯郸公共
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="邯郸新闻" tvg-name="邯郸新闻" group-title="河北地区",邯郸新闻
+https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="邯郸科教" tvg-name="邯郸科教" group-title="河北地区",邯郸科教
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="上街电视台" tvg-name="上街电视台" group-title="河南地区",上街电视台
+http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 tvg-id="永城新闻" tvg-name="永城新闻" group-title="河南地区",永城新闻
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 tvg-id="荥阳1" tvg-name="荥阳1" group-title="河南地区",荥阳1
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" group-title="甘肃地区",天祝电视台
+http://play.kankanlive.com/live/1656487214793905.flv
+http://play.kankanlive.com/live/1656487214793905.m3u8
+https://play.kankanlive.com/live/1656487214793905.m3u8
+#EXTINF:-1 tvg-id="永昌电视台" tvg-name="永昌电视台" group-title="甘肃地区",永昌电视台
+https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" group-title="地方综合",上海新闻综合
+http://222.213.105.65:7788/651632657
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" group-title="地方综合",上海第一财经
+http://103.236.77.86:29824/608780988
+http://222.213.105.65:7788/608780988
+#EXTINF:-1 tvg-id="体育休闲频道" tvg-name="体育休闲频道" group-title="地方综合",体育休闲频道
+http://222.213.105.65:7788/626064707
+http://103.236.77.86:29824/626064707
+#EXTINF:-1 tvg-id="公共新闻频道" tvg-name="公共新闻频道" group-title="地方综合",公共新闻频道
+http://222.213.105.65:7788/626064693
+http://www.ikerobot.com:1234/626064693
+http://103.236.77.86:29824/626064693
+http://8.137.121.66:20241/626064693
+#EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" group-title="地方综合",南京十八频道
+http://222.213.105.65:7788/838151753
+#EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" group-title="地方综合",南京十八频道
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+http://8.137.121.66:20241/838151753
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" group-title="地方综合",南通新闻综合
+http://222.213.105.65:7788/955227985
+#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" group-title="地方综合",宜兴新闻综合
+http://222.213.105.65:7788/955227996
+http://103.236.77.86:29824/955227996
+#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" group-title="地方综合",宿迁新闻综合
+http://222.213.105.65:7788/639731832
+http://103.236.77.86:29824/639731832
+http://8.137.121.66:20241/639731832
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" group-title="地方综合",徐州新闻综合
+http://222.213.105.65:7788/639731747
+http://103.236.77.86:29824/639731747
+http://8.137.121.66:20241/639731747
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" group-title="地方综合",江苏国际
+http://222.213.105.65:7788/626064674
+http://103.236.77.86:29824/626064674
+#EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" group-title="地方综合",江苏城市频道
+http://222.213.105.65:7788/626064714
+http://103.236.77.86:29824/626064714
+#EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" group-title="地方综合",江苏影视频道
+http://222.213.105.65:7788/626064697
+http://8.137.121.66:20241/626064697
+http://103.236.77.86:29824/626064697
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="地方综合",江苏教育
+http://222.213.105.65:7788/628008321
+http://103.236.77.86:29824/628008321
+#EXTINF:-1 tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" group-title="地方综合",江苏综艺频道
+http://222.213.105.65:7788/626065193
+#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" group-title="地方综合",泰州新闻综合
+http://222.213.105.65:7788/639731818
+http://8.137.121.66:20241/639731818
+#EXTINF:-1 tvg-id="海南广播电视总台少儿频道" tvg-name="海南广播电视总台少儿频道" group-title="地方综合",海南广播电视总台少儿频道
+http://222.213.105.65:7788/962067523
+#EXTINF:-1 tvg-id="海南广播电视总台文旅频道" tvg-name="海南广播电视总台文旅频道" group-title="地方综合",海南广播电视总台文旅频道
+http://103.236.77.86:29824/962067526
+http://www.ikerobot.com:1234/962067526
+http://222.213.105.65:7788/962067526
+#EXTINF:-1 tvg-id="海南广播电视总台新闻频道" tvg-name="海南广播电视总台新闻频道" group-title="地方综合",海南广播电视总台新闻频道
+http://222.213.105.65:7788/962067517
+#EXTINF:-1 tvg-id="海南广播电视总台社会与法频道" tvg-name="海南广播电视总台社会与法频道" group-title="地方综合",海南广播电视总台社会与法频道
+http://222.213.105.65:7788/962045223
+http://103.236.77.86:29824/962045223
+#EXTINF:-1 tvg-id="海南广播电视总台自贸频道" tvg-name="海南广播电视总台自贸频道" group-title="地方综合",海南广播电视总台自贸频道
+http://222.213.105.65:7788/962045226
+#EXTINF:-1 tvg-id="海南广播电视总台自贸频道" tvg-name="海南广播电视总台自贸频道" group-title="地方综合",海南广播电视总台自贸频道
+http://8.137.121.66:20241/962045226
+#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" group-title="地方综合",淮安新闻综合
+http://222.213.105.65:7788/639731826
+http://103.236.77.86:29824/639731826
+http://www.ikerobot.com:1234/639731826
+http://8.137.121.66:20241/639731826
+#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" group-title="地方综合",溧水新闻综合
+http://222.213.105.65:7788/639737327
+http://www.ikerobot.com:1234/639737327
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" group-title="地方综合",盐城新闻综合
+http://222.213.105.65:7788/639731825
+http://103.236.77.86:29824/639731825
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="地方综合",财富天下
+http://222.213.105.65:7788/956923159
+http://www.ikerobot.com:1234/956923159
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" group-title="地方综合",连云港新闻综合
+http://222.213.105.65:7788/639731715
+http://103.236.77.86:29824/639731715
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" group-title="地方综合",镇江新闻综合
+http://222.213.105.65:7788/639731783
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" group-title="综合频道",最强综艺趴
+http://222.213.105.65:7788/629942228
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="综合频道",梨园频道
+http://222.213.105.65:7788/961930369
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="综合频道",环球旅游
+http://222.213.105.65:7788/958475356
+#EXTINF:-1 tvg-id="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】乔纳坦0-2拉克什亚（杨妮娜） 23:00" tvg-name="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】乔纳坦0-2拉克什亚（杨妮娜） 23:00" group-title="体育-昨天11-01",BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】乔纳坦0-2拉克什亚（杨妮娜） 23:00
+http://113.98.11.46:3000/969008695
+#EXTINF:-1 tvg-id="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰克斯菲德0-2辛杜（朱胤丞） 23:00" tvg-name="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰克斯菲德0-2辛杜（朱胤丞） 23:00" group-title="体育-昨天11-01",BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰克斯菲德0-2辛杜（朱胤丞） 23:00
+http://113.98.11.46:3000/969002751
+#EXTINF:-1 tvg-id="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰斯帕/阿玛莉1-2吉凯尔/德尔吕（朱胤丞） 23:00" tvg-name="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰斯帕/阿玛莉1-2吉凯尔/德尔吕（朱胤丞） 23:00" group-title="体育-昨天11-01",BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】杰斯帕/阿玛莉1-2吉凯尔/德尔吕（朱胤丞） 23:00
+http://113.98.11.46:3000/969006432
+#EXTINF:-1 tvg-id="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】浮士德/克亚尔2-0本·莱恩/文迪（杨妮娜） 23:00" tvg-name="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】浮士德/克亚尔2-0本·莱恩/文迪（杨妮娜） 23:00" group-title="体育-昨天11-01",BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】浮士德/克亚尔2-0本·莱恩/文迪（杨妮娜） 23:00
+http://113.98.11.46:3000/969011580
+#EXTINF:-1 tvg-id="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】许尹鏸/林芝昀0-2阿玛莉亚/拉马丹蒂（杨妮娜） 23:00" tvg-name="BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】许尹鏸/林芝昀0-2阿玛莉亚/拉马丹蒂（杨妮娜） 23:00" group-title="体育-昨天11-01",BWF 辛杜女单摘金 拉克什亚男单夺冠 【回放】许尹鏸/林芝昀0-2阿玛莉亚/拉马丹蒂（杨妮娜） 23:00
+http://113.98.11.46:3000/969010253
+#EXTINF:-1 tvg-id="CBA 上海久事VS南京同曦宙光 全场回放（李天宇、徐咏） 19:25" tvg-name="CBA 上海久事VS南京同曦宙光 全场回放（李天宇、徐咏） 19:25" group-title="体育-昨天11-01",CBA 上海久事VS南京同曦宙光 全场回放（李天宇、徐咏） 19:25
+http://113.98.11.46:3000/969001829
+#EXTINF:-1 tvg-id="CBA 上海久事VS南京同曦宙光 全场回放（王港） 19:25" tvg-name="CBA 上海久事VS南京同曦宙光 全场回放（王港） 19:25" group-title="体育-昨天11-01",CBA 上海久事VS南京同曦宙光 全场回放（王港） 19:25
+http://113.98.11.46:3000/969001844
+#EXTINF:-1 tvg-id="CBA 上海久事VS南京同曦宙光 全场回放（赛场原声） 19:25" tvg-name="CBA 上海久事VS南京同曦宙光 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 上海久事VS南京同曦宙光 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969006492
+#EXTINF:-1 tvg-id="CBA 上海久事VS南京同曦宙光 全场回放（陈渤胄） 19:25" tvg-name="CBA 上海久事VS南京同曦宙光 全场回放（陈渤胄） 19:25" group-title="体育-昨天11-01",CBA 上海久事VS南京同曦宙光 全场回放（陈渤胄） 19:25
+http://113.98.11.46:3000/969001817
+#EXTINF:-1 tvg-id="CBA 北京首钢VS浙江浙商证券 全场回放（贾磊） 19:25" tvg-name="CBA 北京首钢VS浙江浙商证券 全场回放（贾磊） 19:25" group-title="体育-昨天11-01",CBA 北京首钢VS浙江浙商证券 全场回放（贾磊） 19:25
+http://113.98.11.46:3000/969002563
+#EXTINF:-1 tvg-id="CBA 北京首钢VS浙江浙商证券 全场回放（赛场原声） 19:25" tvg-name="CBA 北京首钢VS浙江浙商证券 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 北京首钢VS浙江浙商证券 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969008748
+#EXTINF:-1 tvg-id="CBA 北京首钢VS浙江浙商证券 全场回放（邵化谦、焦健、苏群、秋童） 19:25" tvg-name="CBA 北京首钢VS浙江浙商证券 全场回放（邵化谦、焦健、苏群、秋童） 19:25" group-title="体育-昨天11-01",CBA 北京首钢VS浙江浙商证券 全场回放（邵化谦、焦健、苏群、秋童） 19:25
+http://113.98.11.46:3000/969002817
+#EXTINF:-1 tvg-id="CBA 北京首钢VS浙江浙商证券 全场回放（郭知昊） 19:25" tvg-name="CBA 北京首钢VS浙江浙商证券 全场回放（郭知昊） 19:25" group-title="体育-昨天11-01",CBA 北京首钢VS浙江浙商证券 全场回放（郭知昊） 19:25
+http://113.98.11.46:3000/969002490
+#EXTINF:-1 tvg-id="CBA 天津先行者VS宁波町渥 全场回放（孙锐） 19:25" tvg-name="CBA 天津先行者VS宁波町渥 全场回放（孙锐） 19:25" group-title="体育-昨天11-01",CBA 天津先行者VS宁波町渥 全场回放（孙锐） 19:25
+http://113.98.11.46:3000/969002999
+#EXTINF:-1 tvg-id="CBA 天津先行者VS宁波町渥 全场回放（林国雄） 19:25" tvg-name="CBA 天津先行者VS宁波町渥 全场回放（林国雄） 19:25" group-title="体育-昨天11-01",CBA 天津先行者VS宁波町渥 全场回放（林国雄） 19:25
+http://113.98.11.46:3000/969003089
+#EXTINF:-1 tvg-id="CBA 天津先行者VS宁波町渥 全场回放（王冠证） 19:25" tvg-name="CBA 天津先行者VS宁波町渥 全场回放（王冠证） 19:25" group-title="体育-昨天11-01",CBA 天津先行者VS宁波町渥 全场回放（王冠证） 19:25
+http://113.98.11.46:3000/969002994
+#EXTINF:-1 tvg-id="CBA 天津先行者VS宁波町渥 全场回放（赛场原声） 19:25" tvg-name="CBA 天津先行者VS宁波町渥 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 天津先行者VS宁波町渥 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969003409
+#EXTINF:-1 tvg-id="CBA 山西汾酒VS四川锦城 全场回放（石楷文） 19:25" tvg-name="CBA 山西汾酒VS四川锦城 全场回放（石楷文） 19:25" group-title="体育-昨天11-01",CBA 山西汾酒VS四川锦城 全场回放（石楷文） 19:25
+http://113.98.11.46:3000/969003206
+#EXTINF:-1 tvg-id="CBA 山西汾酒VS四川锦城 全场回放（蔡凯臣） 19:25" tvg-name="CBA 山西汾酒VS四川锦城 全场回放（蔡凯臣） 19:25" group-title="体育-昨天11-01",CBA 山西汾酒VS四川锦城 全场回放（蔡凯臣） 19:25
+http://113.98.11.46:3000/969003165
+#EXTINF:-1 tvg-id="CBA 山西汾酒VS四川锦城 全场回放（赛场原声） 19:25" tvg-name="CBA 山西汾酒VS四川锦城 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 山西汾酒VS四川锦城 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969003284
+#EXTINF:-1 tvg-id="CBA 浙江稠州金租VS江苏肯帝亚 全场回放（徐秦威） 19:25" tvg-name="CBA 浙江稠州金租VS江苏肯帝亚 全场回放（徐秦威） 19:25" group-title="体育-昨天11-01",CBA 浙江稠州金租VS江苏肯帝亚 全场回放（徐秦威） 19:25
+http://113.98.11.46:3000/969003160
+#EXTINF:-1 tvg-id="CBA 浙江稠州金租VS江苏肯帝亚 全场回放（赛场原声） 19:25" tvg-name="CBA 浙江稠州金租VS江苏肯帝亚 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 浙江稠州金租VS江苏肯帝亚 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969003758
+#EXTINF:-1 tvg-id="CBA 辽宁本钢VS深圳马可波罗 全场回放（哈秋） 19:25" tvg-name="CBA 辽宁本钢VS深圳马可波罗 全场回放（哈秋） 19:25" group-title="体育-昨天11-01",CBA 辽宁本钢VS深圳马可波罗 全场回放（哈秋） 19:25
+http://113.98.11.46:3000/969002514
+#EXTINF:-1 tvg-id="CBA 辽宁本钢VS深圳马可波罗 全场回放（姜帆、杨鸣、刘铁、佳依） 19:25" tvg-name="CBA 辽宁本钢VS深圳马可波罗 全场回放（姜帆、杨鸣、刘铁、佳依） 19:25" group-title="体育-昨天11-01",CBA 辽宁本钢VS深圳马可波罗 全场回放（姜帆、杨鸣、刘铁、佳依） 19:25
+http://113.98.11.46:3000/969002619
+#EXTINF:-1 tvg-id="CBA 辽宁本钢VS深圳马可波罗 全场回放（李嘉伟） 19:25" tvg-name="CBA 辽宁本钢VS深圳马可波罗 全场回放（李嘉伟） 19:25" group-title="体育-昨天11-01",CBA 辽宁本钢VS深圳马可波罗 全场回放（李嘉伟） 19:25
+http://113.98.11.46:3000/969002459
+#EXTINF:-1 tvg-id="CBA 辽宁本钢VS深圳马可波罗 全场回放（赛场原声） 19:25" tvg-name="CBA 辽宁本钢VS深圳马可波罗 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 辽宁本钢VS深圳马可波罗 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969005588
+#EXTINF:-1 tvg-id="CBA 长白山恩都里VS广州智都集团 全场回放（季孟年） 19:25" tvg-name="CBA 长白山恩都里VS广州智都集团 全场回放（季孟年） 19:25" group-title="体育-昨天11-01",CBA 长白山恩都里VS广州智都集团 全场回放（季孟年） 19:25
+http://113.98.11.46:3000/969002716
+#EXTINF:-1 tvg-id="CBA 长白山恩都里VS广州智都集团 全场回放（赛场原声） 19:25" tvg-name="CBA 长白山恩都里VS广州智都集团 全场回放（赛场原声） 19:25" group-title="体育-昨天11-01",CBA 长白山恩都里VS广州智都集团 全场回放（赛场原声） 19:25
+http://113.98.11.46:3000/969002813
+#EXTINF:-1 tvg-id="NBA 火箭VS雷霆 全场回放（AI字幕） 08:00" tvg-name="NBA 火箭VS雷霆 全场回放（AI字幕） 08:00" group-title="体育-昨天11-01",NBA 火箭VS雷霆 全场回放（AI字幕） 08:00
+http://113.98.11.46:3000/968986275
+#EXTINF:-1 tvg-id="NBA 火箭VS雷霆 全场回放（英文原声） 08:00" tvg-name="NBA 火箭VS雷霆 全场回放（英文原声） 08:00" group-title="体育-昨天11-01",NBA 火箭VS雷霆 全场回放（英文原声） 08:00
+http://113.98.11.46:3000/968990438
+#EXTINF:-1 tvg-id="NBA 火箭VS雷霆 全场回放（连睿、丁彦雨航、周鹏、拜月宁） 08:00" tvg-name="NBA 火箭VS雷霆 全场回放（连睿、丁彦雨航、周鹏、拜月宁） 08:00" group-title="体育-昨天11-01",NBA 火箭VS雷霆 全场回放（连睿、丁彦雨航、周鹏、拜月宁） 08:00
+http://113.98.11.46:3000/968985104
+#EXTINF:-1 tvg-id="NBA 灰熊VS国王 全场回放（罗森） 07:55" tvg-name="NBA 灰熊VS国王 全场回放（罗森） 07:55" group-title="体育-昨天11-01",NBA 灰熊VS国王 全场回放（罗森） 07:55
+http://113.98.11.46:3000/968984682
+#EXTINF:-1 tvg-id="NBA 灰熊VS国王 全场回放（英文原声） 07:55" tvg-name="NBA 灰熊VS国王 全场回放（英文原声） 07:55" group-title="体育-昨天11-01",NBA 灰熊VS国王 全场回放（英文原声） 07:55
+http://113.98.11.46:3000/968987689
+#EXTINF:-1 tvg-id="NBA 爵士VS开拓者 全场回放（英文原声） 02:55" tvg-name="NBA 爵士VS开拓者 全场回放（英文原声） 02:55" group-title="体育-昨天11-01",NBA 爵士VS开拓者 全场回放（英文原声） 02:55
+http://113.98.11.46:3000/968979882
+#EXTINF:-1 tvg-id="NBA 爵士VS开拓者 全场回放（邢晨） 02:55" tvg-name="NBA 爵士VS开拓者 全场回放（邢晨） 02:55" group-title="体育-昨天11-01",NBA 爵士VS开拓者 全场回放（邢晨） 02:55
+http://113.98.11.46:3000/968975716
+#EXTINF:-1 tvg-id="NBA 雄鹿VS骑士 全场回放（王冠证、郭维盛、刘潇涵） 07:55" tvg-name="NBA 雄鹿VS骑士 全场回放（王冠证、郭维盛、刘潇涵） 07:55" group-title="体育-昨天11-01",NBA 雄鹿VS骑士 全场回放（王冠证、郭维盛、刘潇涵） 07:55
+http://113.98.11.46:3000/968983959
+#EXTINF:-1 tvg-id="NBA 雄鹿VS骑士 全场回放（英文原声） 07:55" tvg-name="NBA 雄鹿VS骑士 全场回放（英文原声） 07:55" group-title="体育-昨天11-01",NBA 雄鹿VS骑士 全场回放（英文原声） 07:55
+http://113.98.11.46:3000/968987116
+#EXTINF:-1 tvg-id="NBA 马刺VS森林狼 全场回放（孙博、刘铁、马健、裴优） 07:55" tvg-name="NBA 马刺VS森林狼 全场回放（孙博、刘铁、马健、裴优） 07:55" group-title="体育-昨天11-01",NBA 马刺VS森林狼 全场回放（孙博、刘铁、马健、裴优） 07:55
+http://113.98.11.46:3000/968984318
+#EXTINF:-1 tvg-id="NBA 马刺VS森林狼 全场回放（王晓晨） 07:55" tvg-name="NBA 马刺VS森林狼 全场回放（王晓晨） 07:55" group-title="体育-昨天11-01",NBA 马刺VS森林狼 全场回放（王晓晨） 07:55
+http://113.98.11.46:3000/968984219
+#EXTINF:-1 tvg-id="NBA 马刺VS森林狼 全场回放（英文原声） 07:55" tvg-name="NBA 马刺VS森林狼 全场回放（英文原声） 07:55" group-title="体育-昨天11-01",NBA 马刺VS森林狼 全场回放（英文原声） 07:55
+http://113.98.11.46:3000/968988161
+#EXTINF:-1 tvg-id="NBA 鹈鹕VS老鹰 全场回放（徐秦威） 06:55" tvg-name="NBA 鹈鹕VS老鹰 全场回放（徐秦威） 06:55" group-title="体育-昨天11-01",NBA 鹈鹕VS老鹰 全场回放（徐秦威） 06:55
+http://113.98.11.46:3000/968987038
+#EXTINF:-1 tvg-id="NBA 鹈鹕VS老鹰 全场回放（英文原声） 06:55" tvg-name="NBA 鹈鹕VS老鹰 全场回放（英文原声） 06:55" group-title="体育-昨天11-01",NBA 鹈鹕VS老鹰 全场回放（英文原声） 06:55
+http://113.98.11.46:3000/968986430
+#EXTINF:-1 tvg-id="NBA 黄蜂VS76人 全场回放（英文原声） 05:55" tvg-name="NBA 黄蜂VS76人 全场回放（英文原声） 05:55" group-title="体育-昨天11-01",NBA 黄蜂VS76人 全场回放（英文原声） 05:55
+http://113.98.11.46:3000/968984962
+#EXTINF:-1 tvg-id="NBA 黄蜂VS76人 全场回放（蔡凯臣、季孟年） 05:55" tvg-name="NBA 黄蜂VS76人 全场回放（蔡凯臣、季孟年） 05:55" group-title="体育-昨天11-01",NBA 黄蜂VS76人 全场回放（蔡凯臣、季孟年） 05:55
+http://113.98.11.46:3000/968981915
+#EXTINF:-1 tvg-id="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 主赛（王琰博、郝俊） 04:55" tvg-name="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 主赛（王琰博、郝俊） 04:55" group-title="体育-昨天11-01",UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 主赛（王琰博、郝俊） 04:55
+http://113.98.11.46:3000/968986228
+#EXTINF:-1 tvg-id="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 全场回放（英文原声） 04:55" tvg-name="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 全场回放（英文原声） 04:55" group-title="体育-昨天11-01",UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 全场回放（英文原声） 04:55
+http://113.98.11.46:3000/968989391
+#EXTINF:-1 tvg-id="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（王琰博、郝俊） 04:55" tvg-name="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（王琰博、郝俊） 04:55" group-title="体育-昨天11-01",UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（王琰博、郝俊） 04:55
+http://113.98.11.46:3000/968980257
+#EXTINF:-1 tvg-id="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（英文原声） 04:55" tvg-name="UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（英文原声） 04:55" group-title="体育-昨天11-01",UFC格斗之夜 诺兰TKO莫伊卡诺 史密斯一致判定击败布朗 副赛（英文原声） 04:55
+http://113.98.11.46:3000/968983961
+#EXTINF:-1 tvg-id="WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（AI同声传译） 11:00" tvg-name="WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（AI同声传译） 11:00" group-title="体育-昨天11-01",WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（AI同声传译） 11:00
+http://113.98.11.46:3000/968991917
+#EXTINF:-1 tvg-id="WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（单文强） 11:00" tvg-name="WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（单文强） 11:00" group-title="体育-昨天11-01",WTA 费尔南德斯VS施耐德 【回放】费尔南德斯1-2施耐德（单文强） 11:00
+http://113.98.11.46:3000/968991488
+#EXTINF:-1 tvg-id="WTA 费尔南德斯VS施耐德 全场回放 11:00" tvg-name="WTA 费尔南德斯VS施耐德 全场回放 11:00" group-title="体育-昨天11-01",WTA 费尔南德斯VS施耐德 全场回放 11:00
+http://113.98.11.46:3000/968994659
+http://113.98.11.46:3000/968994474
+#EXTINF:-1 tvg-id="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放 18:00" tvg-name="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放 18:00" group-title="体育-昨天11-01",WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放 18:00
+http://113.98.11.46:3000/969013113
+#EXTINF:-1 tvg-id="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（CCTV5） 18:00" tvg-name="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（CCTV5） 18:00" group-title="体育-昨天11-01",WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（CCTV5） 18:00
+http://113.98.11.46:3000/969012093
+#EXTINF:-1 tvg-id="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（智能解说） 18:00" tvg-name="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（智能解说） 18:00" group-title="体育-昨天11-01",WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（智能解说） 18:00
+http://113.98.11.46:3000/969007627
+#EXTINF:-1 tvg-id="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（英文解说智能字幕） 18:00" tvg-name="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（英文解说智能字幕） 18:00" group-title="体育-昨天11-01",WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（英文解说智能字幕） 18:00
+http://113.98.11.46:3000/969008139
+#EXTINF:-1 tvg-id="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（马特） 18:00" tvg-name="WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（马特） 18:00" group-title="体育-昨天11-01",WTT 孙颖莎锁定决赛席 蒯曼4-2陈熠 全场回放（马特） 18:00
+http://113.98.11.46:3000/969006855
+#EXTINF:-1 tvg-id="WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放 22:00" tvg-name="WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放 22:00" group-title="体育-昨天11-01",WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放 22:00
+http://113.98.11.46:3000/969004241
+#EXTINF:-1 tvg-id="WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放（朱子恒） 22:00" tvg-name="WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放（朱子恒） 22:00" group-title="体育-昨天11-01",WTT 抽签：王楚钦首轮迎战林德 蒯曼战申裕斌 全场回放（朱子恒） 22:00
+http://113.98.11.46:3000/969003891
+#EXTINF:-1 tvg-id="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放 01:00" tvg-name="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放 01:00" group-title="体育-昨天11-01",WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放 01:00
+http://113.98.11.46:3000/968984151
+#EXTINF:-1 tvg-id="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（张靖松） 01:00" tvg-name="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（张靖松） 01:00" group-title="体育-昨天11-01",WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（张靖松） 01:00
+http://113.98.11.46:3000/968976151
+#EXTINF:-1 tvg-id="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（智能解说） 01:00" tvg-name="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（智能解说） 01:00" group-title="体育-昨天11-01",WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（智能解说） 01:00
+http://113.98.11.46:3000/968977368
+#EXTINF:-1 tvg-id="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（英文解说智能字幕） 01:00" tvg-name="WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（英文解说智能字幕） 01:00" group-title="体育-昨天11-01",WTT 林诗栋止步8强 蒯曼4-2闯进四强 全场回放（英文解说智能字幕） 01:00
+http://113.98.11.46:3000/968977410
+#EXTINF:-1 tvg-id="中乙 大连可为VS江西庐山 全场回放（官方解说） 14:20" tvg-name="中乙 大连可为VS江西庐山 全场回放（官方解说） 14:20" group-title="体育-昨天11-01",中乙 大连可为VS江西庐山 全场回放（官方解说） 14:20
+http://113.98.11.46:3000/968996562
+#EXTINF:-1 tvg-id="中乙 山西崇德荣海VS杭州临平吴越 全场回放（官方解说） 14:20" tvg-name="中乙 山西崇德荣海VS杭州临平吴越 全场回放（官方解说） 14:20" group-title="体育-昨天11-01",中乙 山西崇德荣海VS杭州临平吴越 全场回放（官方解说） 14:20
+http://113.98.11.46:3000/968997104
+#EXTINF:-1 tvg-id="亚冠女足 北京京坛女足VS卡雅女足 全场回放 18:15" tvg-name="亚冠女足 北京京坛女足VS卡雅女足 全场回放 18:15" group-title="体育-昨天11-01",亚冠女足 北京京坛女足VS卡雅女足 全场回放 18:15
+http://113.98.11.46:3000/969003689
+#EXTINF:-1 tvg-id="亚冠女足 北京京坛女足VS卡雅女足 全场回放（林梦鸽） 18:15" tvg-name="亚冠女足 北京京坛女足VS卡雅女足 全场回放（林梦鸽） 18:15" group-title="体育-昨天11-01",亚冠女足 北京京坛女足VS卡雅女足 全场回放（林梦鸽） 18:15
+http://113.98.11.46:3000/969001060
+#EXTINF:-1 tvg-id="亚冠女足 华川国民体育振兴公团女足VS4.25体育团 全场回放（涂远） 16:15" tvg-name="亚冠女足 华川国民体育振兴公团女足VS4.25体育团 全场回放（涂远） 16:15" group-title="体育-昨天11-01",亚冠女足 华川国民体育振兴公团女足VS4.25体育团 全场回放（涂远） 16:15
+http://113.98.11.46:3000/968998178
+#EXTINF:-1 tvg-id="亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放 22:15" tvg-name="亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放 22:15" group-title="体育-昨天11-01",亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放 22:15
+http://113.98.11.46:3000/969011983
+#EXTINF:-1 tvg-id="亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放（兰子非） 22:15" tvg-name="亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放（兰子非） 22:15" group-title="体育-昨天11-01",亚冠女足 墨尔本城女足VS纳萨夫女足 全场回放（兰子非） 22:15
+http://113.98.11.46:3000/969009376
+#EXTINF:-1 tvg-id="亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放 20:15" tvg-name="亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放 20:15" group-title="体育-昨天11-01",亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放 20:15
+http://113.98.11.46:3000/969009847
+#EXTINF:-1 tvg-id="亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放（胡小凡） 20:15" tvg-name="亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放（胡小凡） 20:15" group-title="体育-昨天11-01",亚冠女足 我故乡女足VS阿耶瓦底女足 全场回放（胡小凡） 20:15
+http://113.98.11.46:3000/969006745
+#EXTINF:-1 tvg-id="亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放 16:25" tvg-name="亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放 16:25" group-title="体育-昨天11-01",亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放 16:25
+http://113.98.11.46:3000/969004047
+http://113.98.11.46:3000/968998208
+http://113.98.11.46:3000/968998216
+#EXTINF:-1 tvg-id="亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放（邵凌霄） 16:25" tvg-name="亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放（邵凌霄） 16:25" group-title="体育-昨天11-01",亚冠女足 神户雌狮女足VS巴姆卡顿女足 全场回放（邵凌霄） 16:25
+http://113.98.11.46:3000/968998196
+#EXTINF:-1 tvg-id="亚冠女足 胡志明市女足VS东孟加拉女足 全场回放 22:15" tvg-name="亚冠女足 胡志明市女足VS东孟加拉女足 全场回放 22:15" group-title="体育-昨天11-01",亚冠女足 胡志明市女足VS东孟加拉女足 全场回放 22:15
+http://113.98.11.46:3000/969011996
+#EXTINF:-1 tvg-id="亚冠女足 胡志明市女足VS东孟加拉女足 全场回放（沈云怡） 22:15" tvg-name="亚冠女足 胡志明市女足VS东孟加拉女足 全场回放（沈云怡） 22:15" group-title="体育-昨天11-01",亚冠女足 胡志明市女足VS东孟加拉女足 全场回放（沈云怡） 22:15
+http://113.98.11.46:3000/969009402
+#EXTINF:-1 tvg-id="咪咕3X3篮球联赛 咪咕3x3济南大区赛决赛 2026咪咕3x3济南大区赛决赛全场回放（赛场原声） 14:00" tvg-name="咪咕3X3篮球联赛 咪咕3x3济南大区赛决赛 2026咪咕3x3济南大区赛决赛全场回放（赛场原声） 14:00" group-title="体育-昨天11-01",咪咕3X3篮球联赛 咪咕3x3济南大区赛决赛 2026咪咕3x3济南大区赛决赛全场回放（赛场原声） 14:00
+http://113.98.11.46:3000/969009897
+#EXTINF:-1 tvg-id="国际马联场地障碍世界杯 1.45M级别浪琴表世界杯赛 全场回放（赛场原声） 15:00" tvg-name="国际马联场地障碍世界杯 1.45M级别浪琴表世界杯赛 全场回放（赛场原声） 15:00" group-title="体育-昨天11-01",国际马联场地障碍世界杯 1.45M级别浪琴表世界杯赛 全场回放（赛场原声） 15:00
+http://113.98.11.46:3000/968998472
+#EXTINF:-1 tvg-id="德甲 拜仁慕尼黑VS多特蒙德 全场回放（AI智慧观赛） 01:25" tvg-name="德甲 拜仁慕尼黑VS多特蒙德 全场回放（AI智慧观赛） 01:25" group-title="体育-昨天11-01",德甲 拜仁慕尼黑VS多特蒙德 全场回放（AI智慧观赛） 01:25
+http://113.98.11.46:3000/968974088
+#EXTINF:-1 tvg-id="德甲 拜仁慕尼黑VS多特蒙德 全场回放（摩比动画） 01:25" tvg-name="德甲 拜仁慕尼黑VS多特蒙德 全场回放（摩比动画） 01:25" group-title="体育-昨天11-01",德甲 拜仁慕尼黑VS多特蒙德 全场回放（摩比动画） 01:25
+http://113.98.11.46:3000/968974465
+#EXTINF:-1 tvg-id="德甲 拜仁慕尼黑VS多特蒙德 全场回放（智能解说） 01:25" tvg-name="德甲 拜仁慕尼黑VS多特蒙德 全场回放（智能解说） 01:25" group-title="体育-昨天11-01",德甲 拜仁慕尼黑VS多特蒙德 全场回放（智能解说） 01:25
+http://113.98.11.46:3000/968974647
+#EXTINF:-1 tvg-id="德甲 拜仁慕尼黑VS多特蒙德 全场回放（胡小凡、张力、鲁靖明） 01:25" tvg-name="德甲 拜仁慕尼黑VS多特蒙德 全场回放（胡小凡、张力、鲁靖明） 01:25" group-title="体育-昨天11-01",德甲 拜仁慕尼黑VS多特蒙德 全场回放（胡小凡、张力、鲁靖明） 01:25
+http://113.98.11.46:3000/968973919
+#EXTINF:-1 tvg-id="德甲 柏林联VS科隆 全场回放（赵宇） 22:15" tvg-name="德甲 柏林联VS科隆 全场回放（赵宇） 22:15" group-title="体育-昨天11-01",德甲 柏林联VS科隆 全场回放（赵宇） 22:15
+http://113.98.11.46:3000/969009370
+#EXTINF:-1 tvg-id="徽青赛 亳州VS宣城 全场回放 14:30" tvg-name="徽青赛 亳州VS宣城 全场回放 14:30" group-title="体育-昨天11-01",徽青赛 亳州VS宣城 全场回放 14:30
+http://113.98.11.46:3000/968996322
+#EXTINF:-1 tvg-id="徽青赛 安庆VS铜陵 全场回放 15:30" tvg-name="徽青赛 安庆VS铜陵 全场回放 15:30" group-title="体育-昨天11-01",徽青赛 安庆VS铜陵 全场回放 15:30
+http://113.98.11.46:3000/969001831
+#EXTINF:-1 tvg-id="徽青赛 宿州VS马鞍山 全场回放 15:30" tvg-name="徽青赛 宿州VS马鞍山 全场回放 15:30" group-title="体育-昨天11-01",徽青赛 宿州VS马鞍山 全场回放 15:30
+http://113.98.11.46:3000/968998792
+#EXTINF:-1 tvg-id="徽青赛 黄山VS六安 全场回放 14:30" tvg-name="徽青赛 黄山VS六安 全场回放 14:30" group-title="体育-昨天11-01",徽青赛 黄山VS六安 全场回放 14:30
+http://113.98.11.46:3000/968996864
+#EXTINF:-1 tvg-id="意甲 AC米兰VS国际米兰 全场回放（AI智慧观赛） 03:40" tvg-name="意甲 AC米兰VS国际米兰 全场回放（AI智慧观赛） 03:40" group-title="体育-昨天11-01",意甲 AC米兰VS国际米兰 全场回放（AI智慧观赛） 03:40
+http://113.98.11.46:3000/968976283
+#EXTINF:-1 tvg-id="意甲 AC米兰VS国际米兰 全场回放（刘腾、贺宇） 03:40" tvg-name="意甲 AC米兰VS国际米兰 全场回放（刘腾、贺宇） 03:40" group-title="体育-昨天11-01",意甲 AC米兰VS国际米兰 全场回放（刘腾、贺宇） 03:40
+http://113.98.11.46:3000/968976251
+#EXTINF:-1 tvg-id="意甲 AC米兰VS国际米兰 全场回放（智能解说） 03:40" tvg-name="意甲 AC米兰VS国际米兰 全场回放（智能解说） 03:40" group-title="体育-昨天11-01",意甲 AC米兰VS国际米兰 全场回放（智能解说） 03:40
+http://113.98.11.46:3000/968976306
+#EXTINF:-1 tvg-id="意甲 AC米兰VS国际米兰 全场回放（石庆圣、李彦、孙蕊） 03:40" tvg-name="意甲 AC米兰VS国际米兰 全场回放（石庆圣、李彦、孙蕊） 03:40" group-title="体育-昨天11-01",意甲 AC米兰VS国际米兰 全场回放（石庆圣、李彦、孙蕊） 03:40
+http://113.98.11.46:3000/968976247
+#EXTINF:-1 tvg-id="意甲 乌迪内斯VS罗马 全场回放（涂远、李彦） 00:45" tvg-name="意甲 乌迪内斯VS罗马 全场回放（涂远、李彦） 00:45" group-title="体育-昨天11-01",意甲 乌迪内斯VS罗马 全场回放（涂远、李彦） 00:45
+http://113.98.11.46:3000/968972607
+#EXTINF:-1 tvg-id="意甲 弗罗西诺内VS都灵 全场回放（马延峰） 21:45" tvg-name="意甲 弗罗西诺内VS都灵 全场回放（马延峰） 21:45" group-title="体育-昨天11-01",意甲 弗罗西诺内VS都灵 全场回放（马延峰） 21:45
+http://113.98.11.46:3000/969008425
+#EXTINF:-1 tvg-id="意甲 拉齐奥VS卡利亚里 全场回放 21:55" tvg-name="意甲 拉齐奥VS卡利亚里 全场回放 21:55" group-title="体育-昨天11-01",意甲 拉齐奥VS卡利亚里 全场回放 21:55
+http://113.98.11.46:3000/969008679
+http://113.98.11.46:3000/969008780
+#EXTINF:-1 tvg-id="意甲 拉齐奥VS卡利亚里 全场回放（张昊泽） 21:55" tvg-name="意甲 拉齐奥VS卡利亚里 全场回放（张昊泽） 21:55" group-title="体育-昨天11-01",意甲 拉齐奥VS卡利亚里 全场回放（张昊泽） 21:55
+http://113.98.11.46:3000/969008630
+#EXTINF:-1 tvg-id="意甲 科莫VS威尼斯 全场回放（AI观赛） 19:25" tvg-name="意甲 科莫VS威尼斯 全场回放（AI观赛） 19:25" group-title="体育-昨天11-01",意甲 科莫VS威尼斯 全场回放（AI观赛） 19:25
+http://113.98.11.46:3000/969002553
+#EXTINF:-1 tvg-id="意甲 科莫VS威尼斯 全场回放（刘焕） 19:25" tvg-name="意甲 科莫VS威尼斯 全场回放（刘焕） 19:25" group-title="体育-昨天11-01",意甲 科莫VS威尼斯 全场回放（刘焕） 19:25
+http://113.98.11.46:3000/969002541
+#EXTINF:-1 tvg-id="意甲 科莫VS威尼斯 全场回放（智能解说） 19:25" tvg-name="意甲 科莫VS威尼斯 全场回放（智能解说） 19:25" group-title="体育-昨天11-01",意甲 科莫VS威尼斯 全场回放（智能解说） 19:25
+http://113.98.11.46:3000/969002555
+#EXTINF:-1 tvg-id="攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（一） 09:00" tvg-name="攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（一） 09:00" group-title="体育-昨天11-01",攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（一） 09:00
+http://113.98.11.46:3000/968993326
+#EXTINF:-1 tvg-id="攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（二） 09:00" tvg-name="攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（二） 09:00" group-title="体育-昨天11-01",攀岩系列赛 全国青年攀岩锦标赛 2026年全国青年攀岩锦标赛Day3全场回放（官方解说）（二） 09:00
+http://113.98.11.46:3000/969009869
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：丁俊晖6-2高阳（赛场原声） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：丁俊晖6-2高阳（赛场原声） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：丁俊晖6-2高阳（赛场原声） 14:00
+http://113.98.11.46:3000/968997620
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：乔·奥康纳2-6袁思俊（赛场原声） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：乔·奥康纳2-6袁思俊（赛场原声） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：乔·奥康纳2-6袁思俊（赛场原声） 14:00
+http://113.98.11.46:3000/969001662
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：亚伦·希尔6:0安东·卡扎科夫（赛场原声） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：亚伦·希尔6:0安东·卡扎科夫（赛场原声） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：亚伦·希尔6:0安东·卡扎科夫（赛场原声） 14:00
+http://113.98.11.46:3000/968997052
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：利亚姆·海菲尔德5-6凯伦·威尔逊（赛场原声） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：利亚姆·海菲尔德5-6凯伦·威尔逊（赛场原声） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：利亚姆·海菲尔德5-6凯伦·威尔逊（赛场原声） 14:00
+http://113.98.11.46:3000/969002834
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（AI观赛） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（AI观赛） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（AI观赛） 14:00
+http://113.98.11.46:3000/968998659
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（熊冕） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（熊冕） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（熊冕） 14:00
+http://113.98.11.46:3000/968997642
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（赛场原声） 14:00" tvg-name="斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（赛场原声） 14:00" group-title="体育-昨天11-01",斯诺克 丁俊晖6-2高阳 范争一6-5特鲁姆普 26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（赛场原声） 14:00
+http://113.98.11.46:3000/968998663
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：克里斯·韦克林6-5龙泽煌（赛场原声） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：克里斯·韦克林6-5龙泽煌（赛场原声） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：克里斯·韦克林6-5龙泽煌（赛场原声） 19:30
+http://113.98.11.46:3000/969014287
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：庞俊旭6-2米纳·阿瓦德（赛场原声） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：庞俊旭6-2米纳·阿瓦德（赛场原声） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：庞俊旭6-2米纳·阿瓦德（赛场原声） 19:30
+http://113.98.11.46:3000/969009859
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：徐思6-4加里·威尔逊（赛场原声） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：徐思6-4加里·威尔逊（赛场原声） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 26/27赛季斯诺克国际锦标赛第1轮回放：徐思6-4加里·威尔逊（赛场原声） 19:30
+http://113.98.11.46:3000/969014257
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】吴宜泽6-1罗比·威廉姆斯（朱峰立） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】吴宜泽6-1罗比·威廉姆斯（朱峰立） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】吴宜泽6-1罗比·威廉姆斯（朱峰立） 19:30
+http://113.98.11.46:3000/969003560
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】大卫·利利4-6赵心童（柏林） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】大卫·利利4-6赵心童（柏林） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】大卫·利利4-6赵心童（柏林） 19:30
+http://113.98.11.46:3000/969008366
+#EXTINF:-1 tvg-id="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】斯坦·穆迪1-6山姆·克雷吉（赛场原声） 19:30" tvg-name="斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】斯坦·穆迪1-6山姆·克雷吉（赛场原声） 19:30" group-title="体育-昨天11-01",斯诺克 吴宜泽、赵心童晋级 龙泽煌5-6韦克林 【回放】斯坦·穆迪1-6山姆·克雷吉（赛场原声） 19:30
+http://113.98.11.46:3000/969007066
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第1轮回放：常冰玉6-2罗斯·缪尔（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第1轮回放：常冰玉6-2罗斯·缪尔（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第1轮回放：常冰玉6-2罗斯·缪尔（赛场原声） 09:30
+http://113.98.11.46:3000/968999062
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（AI观赛） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（AI观赛） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（AI观赛） 09:30
+http://113.98.11.46:3000/968994028
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：吕昊天3-6约翰·希金斯（赛场原声） 09:30
+http://113.98.11.46:3000/968993323
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：奥利弗·莱恩斯6-4迪伦埃莫里（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：奥利弗·莱恩斯6-4迪伦埃莫里（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：奥利弗·莱恩斯6-4迪伦埃莫里（赛场原声） 09:30
+http://113.98.11.46:3000/968993547
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：张安达6-3黄佳浩（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：张安达6-3黄佳浩（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：张安达6-3黄佳浩（赛场原声） 09:30
+http://113.98.11.46:3000/968993879
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：斯图尔特·宾汉姆4-6傅家俊（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：斯图尔特·宾汉姆4-6傅家俊（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 26/27赛季斯诺克国际锦标赛第2轮回放：斯图尔特·宾汉姆4-6傅家俊（赛场原声） 09:30
+http://113.98.11.46:3000/968998406
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】吕昊天3-6约翰·希金斯（杨江源） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】吕昊天3-6约翰·希金斯（杨江源） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】吕昊天3-6约翰·希金斯（杨江源） 09:30
+http://113.98.11.46:3000/968988292
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】常冰玉6-2罗斯·缪尔（陶哲铭） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】常冰玉6-2罗斯·缪尔（陶哲铭） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】常冰玉6-2罗斯·缪尔（陶哲铭） 09:30
+http://113.98.11.46:3000/968988295
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】斯图尔特·宾汉姆4-6傅家俊（卢正浩） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】斯图尔特·宾汉姆4-6傅家俊（卢正浩） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】斯图尔特·宾汉姆4-6傅家俊（卢正浩） 09:30
+http://113.98.11.46:3000/968991022
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】辛格·查达2-6马克·威廉姆斯（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】辛格·查达2-6马克·威廉姆斯（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】辛格·查达2-6马克·威廉姆斯（赛场原声） 09:30
+http://113.98.11.46:3000/968991688
+#EXTINF:-1 tvg-id="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】阿什利·卡蒂1-6朱利安·勒克莱（赛场原声） 09:30" tvg-name="斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】阿什利·卡蒂1-6朱利安·勒克莱（赛场原声） 09:30" group-title="体育-昨天11-01",斯诺克 张安达、常冰玉晋级 傅家俊6-4宾汉姆 【回放】阿什利·卡蒂1-6朱利安·勒克莱（赛场原声） 09:30
+http://113.98.11.46:3000/968991970
+#EXTINF:-1 tvg-id="法甲 斯特拉斯堡VS欧塞尔 全场回放（盛斌） 21:45" tvg-name="法甲 斯特拉斯堡VS欧塞尔 全场回放（盛斌） 21:45" group-title="体育-昨天11-01",法甲 斯特拉斯堡VS欧塞尔 全场回放（盛斌） 21:45
+http://113.98.11.46:3000/969008325
+#EXTINF:-1 tvg-id="法甲 特鲁瓦VS勒芒 全场回放（邵煊） 03:30" tvg-name="法甲 特鲁瓦VS勒芒 全场回放（邵煊） 03:30" group-title="体育-昨天11-01",法甲 特鲁瓦VS勒芒 全场回放（邵煊） 03:30
+http://113.98.11.46:3000/968976491
+#EXTINF:-1 tvg-id="浙BA 云和70-74嘉兴 2026浙江省城市篮球联赛小组赛第8轮全场回放：云和VS嘉兴（赛场原声） 19:30" tvg-name="浙BA 云和70-74嘉兴 2026浙江省城市篮球联赛小组赛第8轮全场回放：云和VS嘉兴（赛场原声） 19:30" group-title="体育-昨天11-01",浙BA 云和70-74嘉兴 2026浙江省城市篮球联赛小组赛第8轮全场回放：云和VS嘉兴（赛场原声） 19:30
+http://113.98.11.46:3000/969010026
+#EXTINF:-1 tvg-id="浙BA 苍南64-66富阳 2026浙江省城市篮球联赛小组赛第8轮全场回放：苍南VS富阳（赛场原声） 19:30" tvg-name="浙BA 苍南64-66富阳 2026浙江省城市篮球联赛小组赛第8轮全场回放：苍南VS富阳（赛场原声） 19:30" group-title="体育-昨天11-01",浙BA 苍南64-66富阳 2026浙江省城市篮球联赛小组赛第8轮全场回放：苍南VS富阳（赛场原声） 19:30
+http://113.98.11.46:3000/969007348
+#EXTINF:-1 tvg-id="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（中文解说） 20:35" tvg-name="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（中文解说） 20:35" group-title="体育-昨天11-01",浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（中文解说） 20:35
+http://113.98.11.46:3000/969011335
+#EXTINF:-1 tvg-id="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（英文解说） 20:35" tvg-name="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（英文解说） 20:35" group-title="体育-昨天11-01",浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（英文解说） 20:35
+http://113.98.11.46:3000/969011135
+#EXTINF:-1 tvg-id="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（赛场原声） 20:35" tvg-name="浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（赛场原声） 20:35" group-title="体育-昨天11-01",浪琴环球马术冠军赛 拉巴特站LGCT大奖赛 2026浪琴环球马术冠军赛拉巴特站LGCT大奖赛全场回放（赛场原声） 20:35
+http://113.98.11.46:3000/969012419
+#EXTINF:-1 tvg-id="琼超 东方VS万宁 全场回放 15:30" tvg-name="琼超 东方VS万宁 全场回放 15:30" group-title="体育-昨天11-01",琼超 东方VS万宁 全场回放 15:30
+http://113.98.11.46:3000/968997929
+#EXTINF:-1 tvg-id="琼超 文昌VS临高 全场回放 15:30" tvg-name="琼超 文昌VS临高 全场回放 15:30" group-title="体育-昨天11-01",琼超 文昌VS临高 全场回放 15:30
+http://113.98.11.46:3000/968997424
+#EXTINF:-1 tvg-id="琼超 昌江VS陵水 全场回放 19:35" tvg-name="琼超 昌江VS陵水 全场回放 19:35" group-title="体育-昨天11-01",琼超 昌江VS陵水 全场回放 19:35
+http://113.98.11.46:3000/969008601
+#EXTINF:-1 tvg-id="英女超 伦敦城雌狮女足VS曼城女足 全场回放 19:45" tvg-name="英女超 伦敦城雌狮女足VS曼城女足 全场回放 19:45" group-title="体育-昨天11-01",英女超 伦敦城雌狮女足VS曼城女足 全场回放 19:45
+http://113.98.11.46:3000/969008379
+#EXTINF:-1 tvg-id="英女超 伦敦城雌狮女足VS曼城女足 全场回放（沈云怡） 19:45" tvg-name="英女超 伦敦城雌狮女足VS曼城女足 全场回放（沈云怡） 19:45" group-title="体育-昨天11-01",英女超 伦敦城雌狮女足VS曼城女足 全场回放（沈云怡） 19:45
+http://113.98.11.46:3000/969003735
+#EXTINF:-1 tvg-id="英女超 伯明翰女足VS托特纳姆热刺女足 全场回放（邵凌霄） 21:45" tvg-name="英女超 伯明翰女足VS托特纳姆热刺女足 全场回放（邵凌霄） 21:45" group-title="体育-昨天11-01",英女超 伯明翰女足VS托特纳姆热刺女足 全场回放（邵凌霄） 21:45
+http://113.98.11.46:3000/969008648
+#EXTINF:-1 tvg-id="英女超 布莱顿女足VS水晶宫女足 全场回放（魏欣怡） 21:45" tvg-name="英女超 布莱顿女足VS水晶宫女足 全场回放（魏欣怡） 21:45" group-title="体育-昨天11-01",英女超 布莱顿女足VS水晶宫女足 全场回放（魏欣怡） 21:45
+http://113.98.11.46:3000/969008589
+#EXTINF:-1 tvg-id="英女超 查尔顿女足VS切尔西女足 全场回放（胡小凡） 22:15" tvg-name="英女超 查尔顿女足VS切尔西女足 全场回放（胡小凡） 22:15" group-title="体育-昨天11-01",英女超 查尔顿女足VS切尔西女足 全场回放（胡小凡） 22:15
+http://113.98.11.46:3000/969009346
+#EXTINF:-1 tvg-id="英女超 西汉姆联女足VS利物浦女足 全场回放（刘焕） 21:45" tvg-name="英女超 西汉姆联女足VS利物浦女足 全场回放（刘焕） 21:45" group-title="体育-昨天11-01",英女超 西汉姆联女足VS利物浦女足 全场回放（刘焕） 21:45
+http://113.98.11.46:3000/969008907
+#EXTINF:-1 tvg-id="英女超 阿森纳女足VS阿斯顿维拉女足 全场回放 19:45" tvg-name="英女超 阿森纳女足VS阿斯顿维拉女足 全场回放 19:45" group-title="体育-昨天11-01",英女超 阿森纳女足VS阿斯顿维拉女足 全场回放 19:45
+http://113.98.11.46:3000/969007239
+#EXTINF:-1 tvg-id="英女超 阿森纳女足VS阿斯顿维拉女足 全场回放（兰子非） 19:45" tvg-name="英女超 阿森纳女足VS阿斯顿维拉女足 全场回放（兰子非） 19:45" group-title="体育-昨天11-01",英女超 阿森纳女足VS阿斯顿维拉女足 全场回放（兰子非） 19:45
+http://113.98.11.46:3000/969003533
+#EXTINF:-1 tvg-id="英超 托特纳姆热刺VS水晶宫 全场回放（李子琪、刘建宏、孙雨轩） 01:15" tvg-name="英超 托特纳姆热刺VS水晶宫 全场回放（李子琪、刘建宏、孙雨轩） 01:15" group-title="体育-昨天11-01",英超 托特纳姆热刺VS水晶宫 全场回放（李子琪、刘建宏、孙雨轩） 01:15
+http://113.98.11.46:3000/968973463
+#EXTINF:-1 tvg-id="英超 托特纳姆热刺VS水晶宫 全场回放（江忠德） 01:15" tvg-name="英超 托特纳姆热刺VS水晶宫 全场回放（江忠德） 01:15" group-title="体育-昨天11-01",英超 托特纳姆热刺VS水晶宫 全场回放（江忠德） 01:15
+http://113.98.11.46:3000/968974174
+#EXTINF:-1 tvg-id="英超 阿斯顿维拉VS富勒姆 全场回放（刘焕） 03:45" tvg-name="英超 阿斯顿维拉VS富勒姆 全场回放（刘焕） 03:45" group-title="体育-昨天11-01",英超 阿斯顿维拉VS富勒姆 全场回放（刘焕） 03:45
+http://113.98.11.46:3000/968976937
+#EXTINF:-1 tvg-id="西甲 巴塞罗那VS阿拉维斯 全场回放（AI智慧观赛） 03:45" tvg-name="西甲 巴塞罗那VS阿拉维斯 全场回放（AI智慧观赛） 03:45" group-title="体育-昨天11-01",西甲 巴塞罗那VS阿拉维斯 全场回放（AI智慧观赛） 03:45
+http://113.98.11.46:3000/968976637
+#EXTINF:-1 tvg-id="西甲 巴塞罗那VS阿拉维斯 全场回放（张昊泽、李欣） 03:45" tvg-name="西甲 巴塞罗那VS阿拉维斯 全场回放（张昊泽、李欣） 03:45" group-title="体育-昨天11-01",西甲 巴塞罗那VS阿拉维斯 全场回放（张昊泽、李欣） 03:45
+http://113.98.11.46:3000/968976592
+#EXTINF:-1 tvg-id="西甲 巴塞罗那VS阿拉维斯 全场回放（智能解说） 03:45" tvg-name="西甲 巴塞罗那VS阿拉维斯 全场回放（智能解说） 03:45" group-title="体育-昨天11-01",西甲 巴塞罗那VS阿拉维斯 全场回放（智能解说） 03:45
+http://113.98.11.46:3000/968976820
+#EXTINF:-1 tvg-id="西甲 皇家贝蒂斯VS马拉加 全场回放（兰子非） 01:15" tvg-name="西甲 皇家贝蒂斯VS马拉加 全场回放（兰子非） 01:15" group-title="体育-昨天11-01",西甲 皇家贝蒂斯VS马拉加 全场回放（兰子非） 01:15
+http://113.98.11.46:3000/968973296
+#EXTINF:-1 tvg-id="西甲 赫塔菲VS塞维利亚 全场回放（李霄） 20:45" tvg-name="西甲 赫塔菲VS塞维利亚 全场回放（李霄） 20:45" group-title="体育-昨天11-01",西甲 赫塔菲VS塞维利亚 全场回放（李霄） 20:45
+http://113.98.11.46:3000/969008721
+#EXTINF:-1 tvg-id="足协杯 云南玉昆VS大连英博海发 全场回放（AI智慧观赛） 19:30" tvg-name="足协杯 云南玉昆VS大连英博海发 全场回放（AI智慧观赛） 19:30" group-title="体育-昨天11-01",足协杯 云南玉昆VS大连英博海发 全场回放（AI智慧观赛） 19:30
+http://113.98.11.46:3000/969005763
+#EXTINF:-1 tvg-id="足协杯 云南玉昆VS大连英博海发 全场回放（孙雨轩、董方卓、程思钦） 19:30" tvg-name="足协杯 云南玉昆VS大连英博海发 全场回放（孙雨轩、董方卓、程思钦） 19:30" group-title="体育-昨天11-01",足协杯 云南玉昆VS大连英博海发 全场回放（孙雨轩、董方卓、程思钦） 19:30
+http://113.98.11.46:3000/969005814
+#EXTINF:-1 tvg-id="足协杯 云南玉昆VS大连英博海发 全场回放（智能解说） 19:30" tvg-name="足协杯 云南玉昆VS大连英博海发 全场回放（智能解说） 19:30" group-title="体育-昨天11-01",足协杯 云南玉昆VS大连英博海发 全场回放（智能解说） 19:30
+http://113.98.11.46:3000/969005564
+#EXTINF:-1 tvg-id="足协杯 云南玉昆VS大连英博海发 全场回放（苏东、刘越） 19:30" tvg-name="足协杯 云南玉昆VS大连英博海发 全场回放（苏东、刘越） 19:30" group-title="体育-昨天11-01",足协杯 云南玉昆VS大连英博海发 全场回放（苏东、刘越） 19:30
+http://113.98.11.46:3000/969004984
+#EXTINF:-1 tvg-id="跑酷世界杯 跑酷世界杯北京站day3 2026跑酷世界杯北京站Day3全场回放（官方解说）（一） 10:30" tvg-name="跑酷世界杯 跑酷世界杯北京站day3 2026跑酷世界杯北京站Day3全场回放（官方解说）（一） 10:30" group-title="体育-昨天11-01",跑酷世界杯 跑酷世界杯北京站day3 2026跑酷世界杯北京站Day3全场回放（官方解说）（一） 10:30
+http://113.98.11.46:3000/968993891
+#EXTINF:-1 tvg-id="逐马计划 2026重庆（长嘉汇）半程马拉松 2026重庆（长嘉汇）半程马拉松全场回放（赛场原声） 07:15" tvg-name="逐马计划 2026重庆（长嘉汇）半程马拉松 2026重庆（长嘉汇）半程马拉松全场回放（赛场原声） 07:15" group-title="体育-昨天11-01",逐马计划 2026重庆（长嘉汇）半程马拉松 2026重庆（长嘉汇）半程马拉松全场回放（赛场原声） 07:15
+http://113.98.11.46:3000/968989161
+#EXTINF:-1 tvg-id="铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（一） 14:30" tvg-name="铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（一） 14:30" group-title="体育-昨天11-01",铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（一） 14:30
+http://113.98.11.46:3000/968994040
+#EXTINF:-1 tvg-id="铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（二） 14:30" tvg-name="铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（二） 14:30" group-title="体育-昨天11-01",铁人三项系列赛 重庆长寿湖铁人三项亚洲杯赛 2026重庆长寿湖铁人三项亚洲杯赛Day2全场回放（官方解说）（二） 14:30
+http://113.98.11.46:3000/968997336
+#EXTINF:-1 tvg-id="铁人三项系列赛 铁人中国T51.5舟山公开赛 2026年铁人中国T51.5舟山公开赛全场回放（官方解说）	 07:00" tvg-name="铁人三项系列赛 铁人中国T51.5舟山公开赛 2026年铁人中国T51.5舟山公开赛全场回放（官方解说）	 07:00" group-title="体育-昨天11-01",铁人三项系列赛 铁人中国T51.5舟山公开赛 2026年铁人中国T51.5舟山公开赛全场回放（官方解说）	 07:00
+http://113.98.11.46:3000/968995106
+#EXTINF:-1 tvg-id="青岛城市足球争霸赛 崂山区vs市北区 全场回放（赛场原声） 15:20" tvg-name="青岛城市足球争霸赛 崂山区vs市北区 全场回放（赛场原声） 15:20" group-title="体育-昨天11-01",青岛城市足球争霸赛 崂山区vs市北区 全场回放（赛场原声） 15:20
+http://113.98.11.46:3000/968997648
+#EXTINF:-1 tvg-id="青岛城市足球争霸赛 莱西市vs平度市 全场回放（赛场原声） 13:50" tvg-name="青岛城市足球争霸赛 莱西市vs平度市 全场回放（赛场原声） 13:50" group-title="体育-昨天11-01",青岛城市足球争霸赛 莱西市vs平度市 全场回放（赛场原声） 13:50
+http://113.98.11.46:3000/968996036
+#EXTINF:-1 tvg-id="马拉松系列赛 2026常州西太湖半程马拉松 2026常州西太湖半程马拉松全场回放（赛场原声） 07:15" tvg-name="马拉松系列赛 2026常州西太湖半程马拉松 2026常州西太湖半程马拉松全场回放（赛场原声） 07:15" group-title="体育-昨天11-01",马拉松系列赛 2026常州西太湖半程马拉松 2026常州西太湖半程马拉松全场回放（赛场原声） 07:15
+http://113.98.11.46:3000/968993924
+#EXTINF:-1 tvg-id="马拉松系列赛 2026扬州高邮大运河半程马拉松 2026扬州高邮大运河半程马拉松全场回放（赛场原声） 07:45" tvg-name="马拉松系列赛 2026扬州高邮大运河半程马拉松 2026扬州高邮大运河半程马拉松全场回放（赛场原声） 07:45" group-title="体育-昨天11-01",马拉松系列赛 2026扬州高邮大运河半程马拉松 2026扬州高邮大运河半程马拉松全场回放（赛场原声） 07:45
+http://113.98.11.46:3000/968991042
+#EXTINF:-1 tvg-id="骑行系列赛 UCI BMX竞速世界杯美国站 2026UCI BMX竞速世界杯美国站全场回放（官方解说） 00:55" tvg-name="骑行系列赛 UCI BMX竞速世界杯美国站 2026UCI BMX竞速世界杯美国站全场回放（官方解说） 00:55" group-title="体育-昨天11-01",骑行系列赛 UCI BMX竞速世界杯美国站 2026UCI BMX竞速世界杯美国站全场回放（官方解说） 00:55
+http://113.98.11.46:3000/968979129
+#EXTINF:-1 tvg-id="CBA 《球你别说了》第4期 周鹏 邵化谦 季孟年 连睿 22:00" tvg-name="CBA 《球你别说了》第4期 周鹏 邵化谦 季孟年 连睿 22:00" group-title="体育-今天11-02",CBA 《球你别说了》第4期 周鹏 邵化谦 季孟年 连睿 22:00
+http://113.98.11.46:3000/968920459
+#EXTINF:-1 tvg-id="CBA 广东东阳光VS青岛崂山啤酒 吕程 杨鸣 19:15" tvg-name="CBA 广东东阳光VS青岛崂山啤酒 吕程 杨鸣 19:15" group-title="体育-今天11-02",CBA 广东东阳光VS青岛崂山啤酒 吕程 杨鸣 19:15
+http://113.98.11.46:3000/968858256
+#EXTINF:-1 tvg-id="WTT 周冠达、侯英超、程靖淇、徐晨皓前瞻 周冠达 侯英超 程靖淇 徐晨皓 18:00" tvg-name="WTT 周冠达、侯英超、程靖淇、徐晨皓前瞻 周冠达 侯英超 程靖淇 徐晨皓 18:00" group-title="体育-今天11-02",WTT 周冠达、侯英超、程靖淇、徐晨皓前瞻 周冠达 侯英超 程靖淇 徐晨皓 18:00
+http://113.98.11.46:3000/968849554
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（AI观赛） 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（AI观赛） 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（AI观赛） 00:30
+http://113.98.11.46:3000/969015111
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（周冠达、侯英超、程靖淇）（50帧原画） 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（周冠达、侯英超、程靖淇）（50帧原画） 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 2026WTT蒙彼利埃冠军赛Day6夜间场全场回放（周冠达、侯英超、程靖淇）（50帧原画） 00:30
+http://113.98.11.46:3000/969015044
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【女单决赛】蒯曼1-4孙颖莎 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【女单决赛】蒯曼1-4孙颖莎 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【女单决赛】蒯曼1-4孙颖莎 00:30
+http://113.98.11.46:3000/969011224
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【男单决赛】张禹珍4-3弗朗西斯卡 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【男单决赛】张禹珍4-3弗朗西斯卡 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 【男单决赛】张禹珍4-3弗朗西斯卡 00:30
+http://113.98.11.46:3000/969013011
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（CCTV5） 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（CCTV5） 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（CCTV5） 00:30
+http://113.98.11.46:3000/969014468
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（智能解说） 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（智能解说） 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（智能解说） 00:30
+http://113.98.11.46:3000/969013805
+#EXTINF:-1 tvg-id="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（英文解说智能字幕） 00:30" tvg-name="WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（英文解说智能字幕） 00:30" group-title="体育-今天11-02",WTT 孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶 全场回放（英文解说智能字幕） 00:30
+http://113.98.11.46:3000/969013807
+#EXTINF:-1 tvg-id="咪咕体育日报 undefined 咪咕体育日报 第229期 08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第229期 08:00" group-title="体育-今天11-02",咪咕体育日报 undefined 咪咕体育日报 第229期 08:00
+http://113.98.11.46:3000/968818237
+#EXTINF:-1 tvg-id="国际自盟场地自行车世锦赛 国际自盟场地自行车世锦赛-1 解说 08:55" tvg-name="国际自盟场地自行车世锦赛 国际自盟场地自行车世锦赛-1 解说 08:55" group-title="体育-今天11-02",国际自盟场地自行车世锦赛 国际自盟场地自行车世锦赛-1 解说 08:55
+http://113.98.11.46:3000/968988369
+#EXTINF:-1 tvg-id="国际马联场地障碍世界杯 西欧联赛法国里昂站 尹少坤 20:00" tvg-name="国际马联场地障碍世界杯 西欧联赛法国里昂站 尹少坤 20:00" group-title="体育-今天11-02",国际马联场地障碍世界杯 西欧联赛法国里昂站 尹少坤 20:00
+http://113.98.11.46:3000/968805567
+#EXTINF:-1 tvg-id="德甲 法兰克福VS汉堡 全场回放（周楚雄） 00:15" tvg-name="德甲 法兰克福VS汉堡 全场回放（周楚雄） 00:15" group-title="体育-今天11-02",德甲 法兰克福VS汉堡 全场回放（周楚雄） 00:15
+http://113.98.11.46:3000/969013199
+#EXTINF:-1 tvg-id="意甲 尤文图斯VS那不勒斯 AI字幕 03:30" tvg-name="意甲 尤文图斯VS那不勒斯 AI字幕 03:30" group-title="体育-今天11-02",意甲 尤文图斯VS那不勒斯 AI字幕 03:30
+http://113.98.11.46:3000/968891680
+#EXTINF:-1 tvg-id="意甲 尤文图斯VS那不勒斯 孙雨轩 刘腾 03:30" tvg-name="意甲 尤文图斯VS那不勒斯 孙雨轩 刘腾 03:30" group-title="体育-今天11-02",意甲 尤文图斯VS那不勒斯 孙雨轩 刘腾 03:30
+http://113.98.11.46:3000/968881788
+#EXTINF:-1 tvg-id="意甲 莱切VS热那亚 全场回放（吴奕博） 00:45" tvg-name="意甲 莱切VS热那亚 全场回放（吴奕博） 00:45" group-title="体育-今天11-02",意甲 莱切VS热那亚 全场回放（吴奕博） 00:45
+http://113.98.11.46:3000/969013284
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 4号桌 14:00" tvg-name="斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 4号桌 14:00" group-title="体育-今天11-02",斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 4号桌 14:00
+http://113.98.11.46:3000/968660282
+#EXTINF:-1 tvg-id="斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 5号桌 14:00" tvg-name="斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 5号桌 14:00" group-title="体育-今天11-02",斯诺克 丁俊晖PK张安达 斯佳辉、傅家俊出战 5号桌 14:00
+http://113.98.11.46:3000/968660305
+#EXTINF:-1 tvg-id="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 4号桌 09:30" tvg-name="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 4号桌 09:30" group-title="体育-今天11-02",斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 4号桌 09:30
+http://113.98.11.46:3000/968660157
+#EXTINF:-1 tvg-id="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 5号桌 09:30" tvg-name="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 5号桌 09:30" group-title="体育-今天11-02",斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 5号桌 09:30
+http://113.98.11.46:3000/968660186
+#EXTINF:-1 tvg-id="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 6号桌 09:30" tvg-name="斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 6号桌 09:30" group-title="体育-今天11-02",斯诺克 范争一PK庞俊旭、袁思俊、塞尔比出战 6号桌 09:30
+http://113.98.11.46:3000/968660195
+#EXTINF:-1 tvg-id="斯诺克 赵心童、吴宜泽、常冰玉出战 4号桌 19:30" tvg-name="斯诺克 赵心童、吴宜泽、常冰玉出战 4号桌 19:30" group-title="体育-今天11-02",斯诺克 赵心童、吴宜泽、常冰玉出战 4号桌 19:30
+http://113.98.11.46:3000/968660393
+#EXTINF:-1 tvg-id="斯诺克 赵心童、吴宜泽、常冰玉出战 5号桌 19:30" tvg-name="斯诺克 赵心童、吴宜泽、常冰玉出战 5号桌 19:30" group-title="体育-今天11-02",斯诺克 赵心童、吴宜泽、常冰玉出战 5号桌 19:30
+http://113.98.11.46:3000/968660409
+#EXTINF:-1 tvg-id="斯诺克 赵心童、吴宜泽、常冰玉出战 6号桌 19:30" tvg-name="斯诺克 赵心童、吴宜泽、常冰玉出战 6号桌 19:30" group-title="体育-今天11-02",斯诺克 赵心童、吴宜泽、常冰玉出战 6号桌 19:30
+http://113.98.11.46:3000/968660427
+#EXTINF:-1 tvg-id="法甲 巴黎FCVS摩纳哥 全场回放（AI智慧观赛） 00:00" tvg-name="法甲 巴黎FCVS摩纳哥 全场回放（AI智慧观赛） 00:00" group-title="体育-今天11-02",法甲 巴黎FCVS摩纳哥 全场回放（AI智慧观赛） 00:00
+http://113.98.11.46:3000/969012760
+#EXTINF:-1 tvg-id="法甲 巴黎FCVS摩纳哥 全场回放（盛斌） 00:00" tvg-name="法甲 巴黎FCVS摩纳哥 全场回放（盛斌） 00:00" group-title="体育-今天11-02",法甲 巴黎FCVS摩纳哥 全场回放（盛斌） 00:00
+http://113.98.11.46:3000/969012315
+#EXTINF:-1 tvg-id="法甲 里昂VS昂热 全场回放（乔迁） 00:00" tvg-name="法甲 里昂VS昂热 全场回放（乔迁） 00:00" group-title="体育-今天11-02",法甲 里昂VS昂热 全场回放（乔迁） 00:00
+http://113.98.11.46:3000/969013128
+#EXTINF:-1 tvg-id="法甲 马赛VS图卢兹 张天翼 03:30" tvg-name="法甲 马赛VS图卢兹 张天翼 03:30" group-title="体育-今天11-02",法甲 马赛VS图卢兹 张天翼 03:30
+http://113.98.11.46:3000/968877474
+#EXTINF:-1 tvg-id="短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大温哥华站 1 解说 13:57" tvg-name="短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大温哥华站 1 解说 13:57" group-title="体育-今天11-02",短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大温哥华站 1 解说 13:57
+http://113.98.11.46:3000/968988346
+#EXTINF:-1 tvg-id="短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大蒙特利尔站 1 解说 22:35" tvg-name="短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大蒙特利尔站 1 解说 22:35" group-title="体育-今天11-02",短道速滑世界巡回赛 短道速滑世界巡回赛 加拿大蒙特利尔站 1 解说 22:35
+http://113.98.11.46:3000/968988179
+#EXTINF:-1 tvg-id="英超 利物浦VS阿森纳 全场回放（AI观赛） 00:25" tvg-name="英超 利物浦VS阿森纳 全场回放（AI观赛） 00:25" group-title="体育-今天11-02",英超 利物浦VS阿森纳 全场回放（AI观赛） 00:25
+http://113.98.11.46:3000/969013141
+#EXTINF:-1 tvg-id="英超 利物浦VS阿森纳 全场回放（智能解说） 00:25" tvg-name="英超 利物浦VS阿森纳 全场回放（智能解说） 00:25" group-title="体育-今天11-02",英超 利物浦VS阿森纳 全场回放（智能解说） 00:25
+http://113.98.11.46:3000/969013085
+#EXTINF:-1 tvg-id="英超 利物浦VS阿森纳 全场回放（石庆圣、鲁靖明） 00:25" tvg-name="英超 利物浦VS阿森纳 全场回放（石庆圣、鲁靖明） 00:25" group-title="体育-今天11-02",英超 利物浦VS阿森纳 全场回放（石庆圣、鲁靖明） 00:25
+http://113.98.11.46:3000/969015135
+#EXTINF:-1 tvg-id="英超 利物浦VS阿森纳 全场回放（詹俊、张路、李子琪） 00:25" tvg-name="英超 利物浦VS阿森纳 全场回放（詹俊、张路、李子琪） 00:25" group-title="体育-今天11-02",英超 利物浦VS阿森纳 全场回放（詹俊、张路、李子琪） 00:25
+http://113.98.11.46:3000/969013036
+#EXTINF:-1 tvg-id="西甲 毕尔巴鄂竞技VS皇家社会 AI字幕 03:45" tvg-name="西甲 毕尔巴鄂竞技VS皇家社会 AI字幕 03:45" group-title="体育-今天11-02",西甲 毕尔巴鄂竞技VS皇家社会 AI字幕 03:45
+http://113.98.11.46:3000/968891703
+#EXTINF:-1 tvg-id="西甲 毕尔巴鄂竞技VS皇家社会 林梦鸽 孙雷 03:45" tvg-name="西甲 毕尔巴鄂竞技VS皇家社会 林梦鸽 孙雷 03:45" group-title="体育-今天11-02",西甲 毕尔巴鄂竞技VS皇家社会 林梦鸽 孙雷 03:45
+http://113.98.11.46:3000/968876905
+#EXTINF:-1 tvg-id="CBA 《球你别说了》第5期 周鹏 马健 连睿 22:00" tvg-name="CBA 《球你别说了》第5期 周鹏 马健 连睿 22:00" group-title="体育-明天11-03",CBA 《球你别说了》第5期 周鹏 马健 连睿 22:00
+http://113.98.11.46:3000/968920450
+#EXTINF:-1 tvg-id="CBA 北京首钢VS宁波町渥 徐秦威 19:20" tvg-name="CBA 北京首钢VS宁波町渥 徐秦威 19:20" group-title="体育-明天11-03",CBA 北京首钢VS宁波町渥 徐秦威 19:20
+http://113.98.11.46:3000/968858730
+#EXTINF:-1 tvg-id="CBA 四川锦城VS福建晋江文旅 周鹏 19:20" tvg-name="CBA 四川锦城VS福建晋江文旅 周鹏 19:20" group-title="体育-明天11-03",CBA 四川锦城VS福建晋江文旅 周鹏 19:20
+http://113.98.11.46:3000/968858765
+#EXTINF:-1 tvg-id="CBA 天津先行者VS浙江浙商证券 吴博文 19:20" tvg-name="CBA 天津先行者VS浙江浙商证券 吴博文 19:20" group-title="体育-明天11-03",CBA 天津先行者VS浙江浙商证券 吴博文 19:20
+http://113.98.11.46:3000/968858828
+#EXTINF:-1 tvg-id="CBA 深圳马可波罗VS浙江稠州金租 王冠证 19:20" tvg-name="CBA 深圳马可波罗VS浙江稠州金租 王冠证 19:20" group-title="体育-明天11-03",CBA 深圳马可波罗VS浙江稠州金租 王冠证 19:20
+http://113.98.11.46:3000/968858698
+#EXTINF:-1 tvg-id="CBA 辽宁本钢VS广州智都集团 蔡凯臣 曾令旭 裴优 19:15" tvg-name="CBA 辽宁本钢VS广州智都集团 蔡凯臣 曾令旭 裴优 19:15" group-title="体育-明天11-03",CBA 辽宁本钢VS广州智都集团 蔡凯臣 曾令旭 裴优 19:15
+http://113.98.11.46:3000/968858492
+#EXTINF:-1 tvg-id="亚冠二级 东孟加拉VS锡卜 乔迁 21:30" tvg-name="亚冠二级 东孟加拉VS锡卜 乔迁 21:30" group-title="体育-明天11-03",亚冠二级 东孟加拉VS锡卜 乔迁 21:30
+http://113.98.11.46:3000/968880234
+#EXTINF:-1 tvg-id="亚冠精英 加拉法体育VS胡拜尔库迪西亚 石庆圣 02:00" tvg-name="亚冠精英 加拉法体育VS胡拜尔库迪西亚 石庆圣 02:00" group-title="体育-明天11-03",亚冠精英 加拉法体育VS胡拜尔库迪西亚 石庆圣 02:00
+http://113.98.11.46:3000/968878425
+#EXTINF:-1 tvg-id="亚冠精英 大不里士拖拉机VS费尔干纳石油工人 李霄 23:45" tvg-name="亚冠精英 大不里士拖拉机VS费尔干纳石油工人 李霄 23:45" group-title="体育-明天11-03",亚冠精英 大不里士拖拉机VS费尔干纳石油工人 李霄 23:45
+http://113.98.11.46:3000/968878520
+#EXTINF:-1 tvg-id="亚冠精英 柏太阳神VS大田韩亚市民 孙雨轩 17:45" tvg-name="亚冠精英 柏太阳神VS大田韩亚市民 孙雨轩 17:45" group-title="体育-明天11-03",亚冠精英 柏太阳神VS大田韩亚市民 孙雨轩 17:45
+http://113.98.11.46:3000/968878206
+#EXTINF:-1 tvg-id="亚冠精英 河内公安VS京都不死鸟 盛斌 20:00" tvg-name="亚冠精英 河内公安VS京都不死鸟 盛斌 20:00" group-title="体育-明天11-03",亚冠精英 河内公安VS京都不死鸟 盛斌 20:00
+http://113.98.11.46:3000/968878030
+#EXTINF:-1 tvg-id="亚冠精英 神户胜利船VS拉查武里 鲁靖明 17:45" tvg-name="亚冠精英 神户胜利船VS拉查武里 鲁靖明 17:45" group-title="体育-明天11-03",亚冠精英 神户胜利船VS拉查武里 鲁靖明 17:45
+http://113.98.11.46:3000/968878141
+#EXTINF:-1 tvg-id="亚冠精英 迪拜祈祷VS巴格达空军 张昊泽 23:45" tvg-name="亚冠精英 迪拜祈祷VS巴格达空军 张昊泽 23:45" group-title="体育-明天11-03",亚冠精英 迪拜祈祷VS巴格达空军 张昊泽 23:45
+http://113.98.11.46:3000/968878489
+#EXTINF:-1 tvg-id="咪咕体育日报 undefined 咪咕体育日报 第230期 08:00" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第230期 08:00" group-title="体育-明天11-03",咪咕体育日报 undefined 咪咕体育日报 第230期 08:00
+http://113.98.11.46:3000/968818226
+#EXTINF:-1 tvg-id="意甲 亚特兰大VS帕尔马 AI字幕 03:30" tvg-name="意甲 亚特兰大VS帕尔马 AI字幕 03:30" group-title="体育-明天11-03",意甲 亚特兰大VS帕尔马 AI字幕 03:30
+http://113.98.11.46:3000/968891668
+#EXTINF:-1 tvg-id="意甲 亚特兰大VS帕尔马 谭逸雄 03:30" tvg-name="意甲 亚特兰大VS帕尔马 谭逸雄 03:30" group-title="体育-明天11-03",意甲 亚特兰大VS帕尔马 谭逸雄 03:30
+http://113.98.11.46:3000/968881756
+#EXTINF:-1 tvg-id="斯诺克 16进8轮次下午场 3号桌 14:00" tvg-name="斯诺克 16进8轮次下午场 3号桌 14:00" group-title="体育-明天11-03",斯诺克 16进8轮次下午场 3号桌 14:00
+http://113.98.11.46:3000/968659422
+#EXTINF:-1 tvg-id="斯诺克 16进8轮次下午场 4号桌 14:00" tvg-name="斯诺克 16进8轮次下午场 4号桌 14:00" group-title="体育-明天11-03",斯诺克 16进8轮次下午场 4号桌 14:00
+http://113.98.11.46:3000/968659486
+#EXTINF:-1 tvg-id="斯诺克 16进8轮次晚场 3号桌 19:30" tvg-name="斯诺克 16进8轮次晚场 3号桌 19:30" group-title="体育-明天11-03",斯诺克 16进8轮次晚场 3号桌 19:30
+http://113.98.11.46:3000/968659782
+#EXTINF:-1 tvg-id="斯诺克 16进8轮次晚场 4号桌 19:30" tvg-name="斯诺克 16进8轮次晚场 4号桌 19:30" group-title="体育-明天11-03",斯诺克 16进8轮次晚场 4号桌 19:30
+http://113.98.11.46:3000/968659821
+#EXTINF:-1 tvg-id="法甲 洛里昂VS布雷斯特 李永熙 03:30" tvg-name="法甲 洛里昂VS布雷斯特 李永熙 03:30" group-title="体育-明天11-03",法甲 洛里昂VS布雷斯特 李永熙 03:30
+http://113.98.11.46:3000/968877205
+#EXTINF:-1 tvg-id="英超 纽卡斯尔联VS埃弗顿 AI字幕 03:45" tvg-name="英超 纽卡斯尔联VS埃弗顿 AI字幕 03:45" group-title="体育-明天11-03",英超 纽卡斯尔联VS埃弗顿 AI字幕 03:45
+http://113.98.11.46:3000/968891729
+#EXTINF:-1 tvg-id="英超 纽卡斯尔联VS埃弗顿 涂远 03:45" tvg-name="英超 纽卡斯尔联VS埃弗顿 涂远 03:45" group-title="体育-明天11-03",英超 纽卡斯尔联VS埃弗顿 涂远 03:45
+http://113.98.11.46:3000/968879766
+#EXTINF:-1 tvg-id="西甲 拉科鲁尼亚VS奥萨苏纳 梁祥宇 03:45" tvg-name="西甲 拉科鲁尼亚VS奥萨苏纳 梁祥宇 03:45" group-title="体育-明天11-03",西甲 拉科鲁尼亚VS奥萨苏纳 梁祥宇 03:45
+http://113.98.11.46:3000/968876936
+#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" group-title="体育赛事",24小时城市联赛轮播台
+http://222.213.105.65:7788/915512915
+http://www.ikerobot.com:1234/915512915
+#EXTINF:-1 tvg-id="JJ斗地主" tvg-name="JJ斗地主" group-title="体育赛事",JJ斗地主
+http://1.14.124.206:35455/huya/152698
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" group-title="体育赛事",体坛名栏汇
+http://222.213.105.65:7788/629943305
+http://103.236.77.86:29824/629943305
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="体育赛事",四海钓鱼
+http://222.213.105.65:7788/637444975
+http://103.236.77.86:29824/637444975
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="体育赛事",快乐垂钓
+http://222.213.105.65:7788/961930263
+http://103.236.77.86:29824/961930263
+#EXTINF:-1 tvg-id="斯诺克" tvg-name="斯诺克" group-title="体育赛事",斯诺克
+http://8.155.43.98:35455/huya/880214
+http://1.14.124.206:35455/huya/880214
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" group-title="体育赛事",赛事最经典
+http://103.236.77.86:29824/646596895
+http://222.213.105.65:7788/646596895
+#EXTINF:-1 tvg-id="七龙珠「动漫」" tvg-name="七龙珠「动漫」" group-title="虎牙轮播",七龙珠「动漫」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601966
+#EXTINF:-1 tvg-id="七龙珠「解说」" tvg-name="七龙珠「解说」" group-title="虎牙轮播",七龙珠「解说」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=25650806
+#EXTINF:-1 tvg-id="中华小当家「动漫」" tvg-name="中华小当家「动漫」" group-title="虎牙轮播",中华小当家「动漫」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
+#EXTINF:-1 tvg-id="互扇巴掌大赛「其他」" tvg-name="互扇巴掌大赛「其他」" group-title="虎牙轮播",互扇巴掌大赛「其他」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=20072873
+#EXTINF:-1 tvg-id="五福星" tvg-name="五福星" group-title="虎牙轮播",五福星
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
+#EXTINF:-1 tvg-id="剧集_地下交通站" tvg-name="剧集_地下交通站" group-title="虎牙轮播",剧集_地下交通站
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342433
+#EXTINF:-1 tvg-id="剧集_士兵突击" tvg-name="剧集_士兵突击" group-title="虎牙轮播",剧集_士兵突击
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342430
+#EXTINF:-1 tvg-id="剧集_庆余年" tvg-name="剧集_庆余年" group-title="虎牙轮播",剧集_庆余年
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
+#EXTINF:-1 tvg-id="剧集_新三国" tvg-name="剧集_新三国" group-title="虎牙轮播",剧集_新三国
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352944
+#EXTINF:-1 tvg-id="剧集_新水浒" tvg-name="剧集_新水浒" group-title="虎牙轮播",剧集_新水浒
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
+#EXTINF:-1 tvg-id="剧集_武林外传" tvg-name="剧集_武林外传" group-title="虎牙轮播",剧集_武林外传
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059598
+#EXTINF:-1 tvg-id="剧集_爱情公寓" tvg-name="剧集_爱情公寓" group-title="虎牙轮播",剧集_爱情公寓
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336726
+#EXTINF:-1 tvg-id="剧集_纪晓岚" tvg-name="剧集_纪晓岚" group-title="虎牙轮播",剧集_纪晓岚
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342396
+#EXTINF:-1 tvg-id="剧集_老三国" tvg-name="剧集_老三国" group-title="虎牙轮播",剧集_老三国
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602081
+#EXTINF:-1 tvg-id="剧集_邻里一家亲" tvg-name="剧集_邻里一家亲" group-title="虎牙轮播",剧集_邻里一家亲
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342426
+#EXTINF:-1 tvg-id="剧集_雍正王朝" tvg-name="剧集_雍正王朝" group-title="虎牙轮播",剧集_雍正王朝
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342439
+#EXTINF:-1 tvg-id="动漫•1「解说」" tvg-name="动漫•1「解说」" group-title="虎牙轮播",动漫•1「解说」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=19757963
+#EXTINF:-1 tvg-id="哆啦A梦「动漫」" tvg-name="哆啦A梦「动漫」" group-title="虎牙轮播",哆啦A梦「动漫」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
+#EXTINF:-1 tvg-id="徐克" tvg-name="徐克" group-title="虎牙轮播",徐克
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
+#EXTINF:-1 tvg-id="恐怖电影「解说」" tvg-name="恐怖电影「解说」" group-title="虎牙轮播",恐怖电影「解说」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23419131
+#EXTINF:-1 tvg-id="挨饿德•1「其他」" tvg-name="挨饿德•1「其他」" group-title="虎牙轮播",挨饿德•1「其他」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=20985858
+#EXTINF:-1 tvg-id="挨饿德•2「其他」" tvg-name="挨饿德•2「其他」" group-title="虎牙轮播",挨饿德•2「其他」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=17693860
+#EXTINF:-1 tvg-id="搞笑_陈翔六点半" tvg-name="搞笑_陈翔六点半" group-title="虎牙轮播",搞笑_陈翔六点半
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
+#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" group-title="虎牙轮播",斗罗大陆
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352906
+#EXTINF:-1 tvg-id="止戈电影「解说」" tvg-name="止戈电影「解说」" group-title="虎牙轮播",止戈电影「解说」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=19863777
+#EXTINF:-1 tvg-id="治愈•放松「音乐」" tvg-name="治愈•放松「音乐」" group-title="虎牙轮播",治愈•放松「音乐」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21241811
+#EXTINF:-1 tvg-id="猫和老鼠「动漫」" tvg-name="猫和老鼠「动漫」" group-title="虎牙轮播",猫和老鼠「动漫」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352879
+#EXTINF:-1 tvg-id="电影_不挤影院" tvg-name="电影_不挤影院" group-title="虎牙轮播",电影_不挤影院
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
+#EXTINF:-1 tvg-id="电影_丧尸片" tvg-name="电影_丧尸片" group-title="虎牙轮播",电影_丧尸片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059578
+#EXTINF:-1 tvg-id="电影_八点档" tvg-name="电影_八点档" group-title="虎牙轮播",电影_八点档
+http://tv.zimtv.cn/tv/player/api/huya.php?id=880261
+#EXTINF:-1 tvg-id="电影_功夫片" tvg-name="电影_功夫片" group-title="虎牙轮播",电影_功夫片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352941
+#EXTINF:-1 tvg-id="电影_动作电影" tvg-name="电影_动作电影" group-title="虎牙轮播",电影_动作电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602077
+#EXTINF:-1 tvg-id="电影_发哥" tvg-name="电影_发哥" group-title="虎牙轮播",电影_发哥
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
+#EXTINF:-1 tvg-id="电影_变形金刚" tvg-name="电影_变形金刚" group-title="虎牙轮播",电影_变形金刚
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
+#EXTINF:-1 tvg-id="电影_古装片" tvg-name="电影_古装片" group-title="虎牙轮播",电影_古装片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336590
+#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" group-title="虎牙轮播",电影_周星星
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336587
+#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" group-title="虎牙轮播",电影_周星星
+http://1.14.124.206:35455/huya/11336587
+http://8.155.43.98:35455/huya/11336587
+#EXTINF:-1 tvg-id="电影_喜乐影院" tvg-name="电影_喜乐影院" group-title="虎牙轮播",电影_喜乐影院
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
+#EXTINF:-1 tvg-id="电影_喜剧专场" tvg-name="电影_喜剧专场" group-title="虎牙轮播",电影_喜剧专场
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
+#EXTINF:-1 tvg-id="电影_国产悬疑" tvg-name="电影_国产悬疑" group-title="虎牙轮播",电影_国产悬疑
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342395
+#EXTINF:-1 tvg-id="电影_嫣然影厅" tvg-name="电影_嫣然影厅" group-title="虎牙轮播",电影_嫣然影厅
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601977
+#EXTINF:-1 tvg-id="电影_小鬼头" tvg-name="电影_小鬼头" group-title="虎牙轮播",电影_小鬼头
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352963
+#EXTINF:-1 tvg-id="电影_快意江湖" tvg-name="电影_快意江湖" group-title="虎牙轮播",电影_快意江湖
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
+#EXTINF:-1 tvg-id="电影_怪兽系列" tvg-name="电影_怪兽系列" group-title="虎牙轮播",电影_怪兽系列
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059554
+#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争" group-title="虎牙轮播",电影_战争
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059592
+#EXTINF:-1 tvg-id="电影_战争片" tvg-name="电影_战争片" group-title="虎牙轮播",电影_战争片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
+#EXTINF:-1 tvg-id="电影_推荐" tvg-name="电影_推荐" group-title="虎牙轮播",电影_推荐
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602041
+#EXTINF:-1 tvg-id="电影_搞笑喜剧" tvg-name="电影_搞笑喜剧" group-title="虎牙轮播",电影_搞笑喜剧
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
+#EXTINF:-1 tvg-id="电影_搞笑恐怖" tvg-name="电影_搞笑恐怖" group-title="虎牙轮播",电影_搞笑恐怖
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601960
+#EXTINF:-1 tvg-id="电影_斯坦森" tvg-name="电影_斯坦森" group-title="虎牙轮播",电影_斯坦森
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059588
+#EXTINF:-1 tvg-id="电影_欢笑影院" tvg-name="电影_欢笑影院" group-title="虎牙轮播",电影_欢笑影院
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352894
+#EXTINF:-1 tvg-id="电影_死神来了" tvg-name="电影_死神来了" group-title="虎牙轮播",电影_死神来了
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352903
+#EXTINF:-1 tvg-id="电影_海盗" tvg-name="电影_海盗" group-title="虎牙轮播",电影_海盗
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059595
+#EXTINF:-1 tvg-id="电影_海盗" tvg-name="电影_海盗" group-title="虎牙轮播",电影_海盗
+http://1.14.124.206:35455/huya/21059595
+http://8.155.43.98:35455/huya/21059595
+#EXTINF:-1 tvg-id="电影_漫威" tvg-name="电影_漫威" group-title="虎牙轮播",电影_漫威
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602034
+#EXTINF:-1 tvg-id="电影_灾难片" tvg-name="电影_灾难片" group-title="虎牙轮播",电影_灾难片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602075
+#EXTINF:-1 tvg-id="电影_热血" tvg-name="电影_热血" group-title="虎牙轮播",电影_热血
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352934
+#EXTINF:-1 tvg-id="电影_犯罪片" tvg-name="电影_犯罪片" group-title="虎牙轮播",电影_犯罪片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352974
+#EXTINF:-1 tvg-id="电影_经典港片" tvg-name="电影_经典港片" group-title="虎牙轮播",电影_经典港片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352965
+#EXTINF:-1 tvg-id="电影_蘑菇影厅" tvg-name="电影_蘑菇影厅" group-title="虎牙轮播",电影_蘑菇影厅
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601981
+#EXTINF:-1 tvg-id="电影_蜘蛛侠" tvg-name="电影_蜘蛛侠" group-title="虎牙轮播",电影_蜘蛛侠
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059599
+#EXTINF:-1 tvg-id="电影_警匪" tvg-name="电影_警匪" group-title="虎牙轮播",电影_警匪
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
+#EXTINF:-1 tvg-id="电影_许氏三杰" tvg-name="电影_许氏三杰" group-title="虎牙轮播",电影_许氏三杰
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602033
+#EXTINF:-1 tvg-id="电影_谍战片" tvg-name="电影_谍战片" group-title="虎牙轮播",电影_谍战片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
+#EXTINF:-1 tvg-id="电影_贺岁片" tvg-name="电影_贺岁片" group-title="虎牙轮播",电影_贺岁片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+#EXTINF:-1 tvg-id="电影_镖行天下" tvg-name="电影_镖行天下" group-title="虎牙轮播",电影_镖行天下
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352969
+#EXTINF:-1 tvg-id="电影_高分动作" tvg-name="电影_高分动作" group-title="虎牙轮播",电影_高分动作
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352884
+#EXTINF:-1 tvg-id="电影_高能反转" tvg-name="电影_高能反转" group-title="虎牙轮播",电影_高能反转
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352887
+#EXTINF:-1 tvg-id="电影_黑帮斗争" tvg-name="电影_黑帮斗争" group-title="虎牙轮播",电影_黑帮斗争
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342419
+#EXTINF:-1 tvg-id="电影_黑帮片" tvg-name="电影_黑帮片" group-title="虎牙轮播",电影_黑帮片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
+#EXTINF:-1 tvg-id="荒野求生「其他」" tvg-name="荒野求生「其他」" group-title="虎牙轮播",荒野求生「其他」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=593667
+#EXTINF:-1 tvg-id="解说_亮哥讲电影" tvg-name="解说_亮哥讲电影" group-title="虎牙轮播",解说_亮哥讲电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=16144175
+#EXTINF:-1 tvg-id="解说_大象放映室" tvg-name="解说_大象放映室" group-title="虎牙轮播",解说_大象放映室
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21277391
+#EXTINF:-1 tvg-id="解说_小川侃电影" tvg-name="解说_小川侃电影" group-title="虎牙轮播",解说_小川侃电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=15870999
+#EXTINF:-1 tvg-id="解说_扁豆看电影" tvg-name="解说_扁豆看电影" group-title="虎牙轮播",解说_扁豆看电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=16028551
+#EXTINF:-1 tvg-id="解说_斌哥漫说" tvg-name="解说_斌哥漫说" group-title="虎牙轮播",解说_斌哥漫说
+http://tv.zimtv.cn/tv/player/api/huya.php?id=18632116
+#EXTINF:-1 tvg-id="解说_涵哥评电影" tvg-name="解说_涵哥评电影" group-title="虎牙轮播",解说_涵哥评电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=16865726
+#EXTINF:-1 tvg-id="解说_科幻梦工场" tvg-name="解说_科幻梦工场" group-title="虎牙轮播",解说_科幻梦工场
+http://tv.zimtv.cn/tv/player/api/huya.php?id=15152155
+#EXTINF:-1 tvg-id="解说_越哥说电影" tvg-name="解说_越哥说电影" group-title="虎牙轮播",解说_越哥说电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=15894162
+#EXTINF:-1 tvg-id="解说_阿斗说电影" tvg-name="解说_阿斗说电影" group-title="虎牙轮播",解说_阿斗说电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=13303478
+#EXTINF:-1 tvg-id="解说_阿良说剧" tvg-name="解说_阿良说剧" group-title="虎牙轮播",解说_阿良说剧
+http://tv.zimtv.cn/tv/player/api/huya.php?id=20488841
+#EXTINF:-1 tvg-id="解说_鱼丸电影" tvg-name="解说_鱼丸电影" group-title="虎牙轮播",解说_鱼丸电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=16615910
+#EXTINF:-1 tvg-id="许冠英" tvg-name="许冠英" group-title="虎牙轮播",许冠英
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601972
+#EXTINF:-1 tvg-id="野行者「其他」" tvg-name="野行者「其他」" group-title="虎牙轮播",野行者「其他」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=20072663
+#EXTINF:-1 tvg-id="阅读•学习「音乐」" tvg-name="阅读•学习「音乐」" group-title="虎牙轮播",阅读•学习「音乐」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21241813
+#EXTINF:-1 tvg-id="音乐石榴「音乐」" tvg-name="音乐石榴「音乐」" group-title="虎牙轮播",音乐石榴「音乐」
+http://tv.zimtv.cn/tv/player/api/huya.php?id=17091681
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="经典电影",CHC动作电影
+http://192.151.150.154/live/chcdz.m3u8
+http://198.204.228.26/live/chcdz.m3u8
+http://107.150.60.122/live/chcdz.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="经典电影",CHC家庭影院
+http://192.151.150.154/live/chcjt.m3u8
+http://107.150.60.122/live/chcjt.m3u8
+http://198.204.228.26/live/chcjt.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="经典电影",CHC影迷电影
+http://103.236.77.86:29824/952383261
+http://222.213.105.65:7788/952383261
+http://107.150.60.122/live/chchd.m3u8
+http://198.204.228.26/live/chchd.m3u8
+http://192.151.150.154/live/chchd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
+#EXTINF:-1 tvg-id="周星驰电影" tvg-name="周星驰电影" group-title="经典电影",周星驰电影
+http://192.151.150.154/live/lbzxc.m3u8
+http://107.150.60.122/live/lbzxc.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="周润发电影" tvg-name="周润发电影" group-title="经典电影",周润发电影
+http://192.151.150.154/live/lbzrf.m3u8
+http://198.204.228.26/live/lbzrf.m3u8
+http://107.150.60.122/live/lbzrf.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="成龙电影" tvg-name="成龙电影" group-title="经典电影",成龙电影
+http://198.204.228.26/live/lbcl.m3u8
+http://192.151.150.154/live/lbcl.m3u8
+http://107.150.60.122/live/lbcl.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" group-title="经典电影",抗战经典影片
+http://103.236.77.86:29824/617432318
+http://222.213.105.65:7788/617432318
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" group-title="经典电影",新片放映厅
+http://222.213.105.65:7788/619495952
+http://103.236.77.86:29824/619495952
+#EXTINF:-1 tvg-id="林正英影院" tvg-name="林正英影院" group-title="经典电影",林正英影院
+http://107.150.60.122/live/lblzy.m3u8
+http://192.151.150.154/live/lblzy.m3u8
+http://198.204.228.26/live/lblzy.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华" group-title="经典电影",电影_刘德华
+http://8.155.43.98:35455/huya/11342424
+http://1.14.124.206:35455/huya/11342424
+#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华" group-title="经典电影",电影_刘德华
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342424
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" group-title="经典电影",电影_喜剧
+http://8.155.43.98:35455/huya/11352877
+http://1.14.124.206:35455/huya/11352877
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" group-title="经典电影",电影_喜剧
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352877
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" group-title="经典电影",电影_国产
+http://8.155.43.98:35455/huya/11352973
+http://1.14.124.206:35455/huya/11352973
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" group-title="经典电影",电影_国产
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352973
+#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙" group-title="经典电影",电影_宇宙
+http://8.155.43.98:35455/huya/11342428
+#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙" group-title="经典电影",电影_宇宙
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342428
+#EXTINF:-1 tvg-id="电影_强森" tvg-name="电影_强森" group-title="经典电影",电影_强森
+http://8.155.43.98:35455/huya/21059581
+http://1.14.124.206:35455/huya/21059581
+#EXTINF:-1 tvg-id="电影_强森" tvg-name="电影_强森" group-title="经典电影",电影_强森
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059581
+#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽" group-title="经典电影",电影_怪兽
+http://8.155.43.98:35455/huya/21059577
+#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽" group-title="经典电影",电影_怪兽
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059577
+#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙" group-title="经典电影",电影_成龙
+http://8.155.43.98:35455/huya/11342386
+http://1.14.124.206:35455/huya/11342386
+#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙" group-title="经典电影",电影_成龙
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386
+#EXTINF:-1 tvg-id="电影_救援" tvg-name="电影_救援" group-title="经典电影",电影_救援
+http://1.14.124.206:35455/huya/21059594
+http://8.155.43.98:35455/huya/21059594
+#EXTINF:-1 tvg-id="电影_救援" tvg-name="电影_救援" group-title="经典电影",电影_救援
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059594
+#EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" group-title="经典电影",电影_星爷
+http://1.14.124.206:35455/huya/11342412
+http://8.155.43.98:35455/huya/11342412
+#EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" group-title="经典电影",电影_星爷
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
+#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰" group-title="经典电影",电影_李连杰
+http://1.14.124.206:35455/huya/11342390
+http://8.155.43.98:35455/huya/11342390
+#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰" group-title="经典电影",电影_李连杰
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342390
+#EXTINF:-1 tvg-id="电影_枪战" tvg-name="电影_枪战" group-title="经典电影",电影_枪战
+http://8.155.43.98:35455/huya/21059579
+http://1.14.124.206:35455/huya/21059579
+#EXTINF:-1 tvg-id="电影_枪战" tvg-name="电影_枪战" group-title="经典电影",电影_枪战
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059579
+#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" group-title="经典电影",电影_梁家辉
+http://8.155.43.98:35455/huya/11342429
+http://1.14.124.206:35455/huya/11342429
+#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" group-title="经典电影",电影_梁家辉
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342429
+#EXTINF:-1 tvg-id="电影_武侠" tvg-name="电影_武侠" group-title="经典电影",电影_武侠
+http://8.155.43.98:35455/huya/11342427
+#EXTINF:-1 tvg-id="电影_武侠" tvg-name="电影_武侠" group-title="经典电影",电影_武侠
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342427
+#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" group-title="经典电影",电影_沈腾
+http://8.155.43.98:35455/huya/11601968
+http://1.14.124.206:35455/huya/11601968
+#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" group-title="经典电影",电影_沈腾
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601968
+#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" group-title="经典电影",电影_洪金宝
+http://8.155.43.98:35455/huya/11279251
+http://1.14.124.206:35455/huya/11279251
+#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" group-title="经典电影",电影_洪金宝
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11279251
+#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片" group-title="经典电影",电影_港片
+http://8.155.43.98:35455/huya/11602043
+http://1.14.124.206:35455/huya/11602043
+#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片" group-title="经典电影",电影_港片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602043
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" group-title="经典电影",电影_玄幻
+http://8.155.43.98:35455/huya/11342414
+http://1.14.124.206:35455/huya/11342414
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" group-title="经典电影",电影_玄幻
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342414
+#EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" group-title="经典电影",电影_王晶
+http://8.155.43.98:35455/huya/11602058
+http://1.14.124.206:35455/huya/11602058
+#EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" group-title="经典电影",电影_王晶
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602058
+#EXTINF:-1 tvg-id="电影_盗墓" tvg-name="电影_盗墓" group-title="经典电影",电影_盗墓
+http://1.14.124.206:35455/huya/21059552
+http://8.155.43.98:35455/huya/21059552
+#EXTINF:-1 tvg-id="电影_盗墓" tvg-name="电影_盗墓" group-title="经典电影",电影_盗墓
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059552
+#EXTINF:-1 tvg-id="电影_罪犯" tvg-name="电影_罪犯" group-title="经典电影",电影_罪犯
+http://8.155.43.98:35455/huya/11352962
+http://1.14.124.206:35455/huya/11352962
+#EXTINF:-1 tvg-id="电影_罪犯" tvg-name="电影_罪犯" group-title="经典电影",电影_罪犯
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352962
+#EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" group-title="经典电影",电影_英叔
+http://8.155.43.98:35455/huya/11342421
+http://1.14.124.206:35455/huya/11342421
+#EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" group-title="经典电影",电影_英叔
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342421
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" group-title="经典电影",电影_谍战
+http://8.155.43.98:35455/huya/21059585
+http://1.14.124.206:35455/huya/21059585
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" group-title="经典电影",电影_谍战
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" group-title="经典电影",电影_贺岁
+http://8.155.43.98:35455/huya/11601971
+http://1.14.124.206:35455/huya/11601971
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" group-title="经典电影",电影_贺岁
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601971
+#EXTINF:-1 tvg-id="电影_赛车" tvg-name="电影_赛车" group-title="经典电影",电影_赛车
+http://1.14.124.206:35455/huya/11279247
+http://8.155.43.98:35455/huya/11279247
+#EXTINF:-1 tvg-id="电影_赛车" tvg-name="电影_赛车" group-title="经典电影",电影_赛车
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤" group-title="经典电影",电影_黄渤
+http://8.155.43.98:35455/huya/11352876
+http://1.14.124.206:35455/huya/11352876
+#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤" group-title="经典电影",电影_黄渤
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" group-title="经典电影",经典香港电影
+http://222.213.105.65:7788/625703337
+http://103.236.77.86:29824/625703337
+#EXTINF:-1 tvg-id="邵氏动作" tvg-name="邵氏动作" group-title="经典电影",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏喜剧" tvg-name="邵氏喜剧" group-title="经典电影",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏武侠" tvg-name="邵氏武侠" group-title="经典电影",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="邵氏电影" tvg-name="邵氏电影" group-title="经典电影",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="刑事侦缉档案" tvg-name="刑事侦缉档案" group-title="电视轮播",刑事侦缉档案
+http://1.14.124.206:35455/huya/29465856
+#EXTINF:-1 tvg-id="天地争霸美猴王" tvg-name="天地争霸美猴王" group-title="电视轮播",天地争霸美猴王
+http://1.14.124.206:35455/huya/29465859
+#EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" group-title="电视轮播",封神榜
+http://1.14.124.206:35455/huya/29465849
+#EXTINF:-1 tvg-id="怀旧剧专区" tvg-name="怀旧剧专区" group-title="电视轮播",怀旧剧专区
+http://1.14.124.206:35455/huya/30080241
+#EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" group-title="电视轮播",武侠剧专区
+http://1.14.124.206:35455/huya/20985816
+#EXTINF:-1 tvg-id="洗冤录" tvg-name="洗冤录" group-title="电视轮播",洗冤录
+http://1.14.124.206:35455/huya/29465851
+#EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" group-title="电视轮播",笑看风云
+http://1.14.124.206:35455/huya/29465858
+#EXTINF:-1 tvg-id="经典剧专区" tvg-name="经典剧专区" group-title="电视轮播",经典剧专区
+http://1.14.124.206:35455/huya/11602081
+#EXTINF:-1 tvg-id="野蛮亲家" tvg-name="野蛮亲家" group-title="电视轮播",野蛮亲家
+http://1.14.124.206:35455/huya/23863796
+#EXTINF:-1 tvg-id="陀枪师姐" tvg-name="陀枪师姐" group-title="电视轮播",陀枪师姐
+http://1.14.124.206:35455/huya/29465857
+#EXTINF:-1 tvg-id="韦小宝" tvg-name="韦小宝" group-title="电视轮播",韦小宝
+http://1.14.124.206:35455/huya/23650774
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="特色轮播",CETV4
+http://103.236.77.86:29824/923287339
+http://222.213.105.65:7788/923287339
+http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="中国航天“逆袭”之路" tvg-name="中国航天“逆袭”之路" group-title="特色轮播",中国航天“逆袭”之路
+http://222.213.105.65:7788/713600957
+http://www.ikerobot.com:1234/713600957
+http://103.236.77.86:29824/713600957
+#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" group-title="特色轮播",南方影视
+http://222.213.105.65:7788/614961829
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" group-title="特色轮播",和美乡途轮播台
+http://222.213.105.65:7788/713591450
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="特色轮播",山东教育
+http://103.236.77.86:29824/609154353
+http://222.213.105.65:7788/609154353
+#EXTINF:-1 tvg-id="ABN TV (720p)" tvg-name="ABN TV (720p)" group-title="国际综合",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="国际综合",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" group-title="国际综合",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang Radio" tvg-name="Arirang Radio" group-title="国际综合",Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang Radio (720p)" tvg-name="Arirang Radio (720p)" group-title="国际综合",Arirang Radio (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBS" tvg-name="BBS" group-title="国际综合",BBS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 tvg-id="BBS Buddhist Broadcasting (1080p)" tvg-name="BBS Buddhist Broadcasting (1080p)" group-title="国际综合",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBS佛教广播" tvg-name="BBS佛教广播" group-title="国际综合",BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 tvg-id="BTN" tvg-name="BTN" group-title="国际综合",BTN
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN1" tvg-name="CGTN1" group-title="国际综合",CGTN1
+https://live-stream.cgtn.com/event-live/CGTN_1_1PVvR6ZBAZ2/index.m3u8
+#EXTINF:-1 tvg-id="CJ OnStyle (540p)" tvg-name="CJ OnStyle (540p)" group-title="国际综合",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="CPBC" tvg-name="CPBC" group-title="国际综合",CPBC
+http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS 2" tvg-name="EBS 2" group-title="国际综合",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+#EXTINF:-1 tvg-id="EBS+2" tvg-name="EBS+2" group-title="国际综合",EBS+2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="EBS-KIDS" tvg-name="EBS-KIDS" group-title="国际综合",EBS-KIDS
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1" tvg-name="EBS1" group-title="国际综合",EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" group-title="国际综合",EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="EBSe" tvg-name="EBSe" group-title="国际综合",EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="EBSi" tvg-name="EBSi" group-title="国际综合",EBSi
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="EBS少儿" tvg-name="EBS少儿" group-title="国际综合",EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-id="EWTN Africa Asia (720p)" tvg-name="EWTN Africa Asia (720p)" group-title="国际综合",EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN Asia-Pacific (720p) [Not 24/7]" tvg-name="EWTN Asia-Pacific (720p) [Not 24/7]" group-title="国际综合",EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN24 Korean (720p)" tvg-name="GCN24 Korean (720p)" group-title="国际综合",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN教会" tvg-name="GCN教会" group-title="国际综合",GCN教会
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+#EXTINF:-1 tvg-id="Home & Shopping (720p)" tvg-name="Home & Shopping (720p)" group-title="国际综合",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS LiveCam DokDo (540p)" tvg-name="KBS LiveCam DokDo (540p)" group-title="国际综合",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" group-title="国际综合",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-id="KCTV 광주 CH05 (720p) [Not 24/7]" tvg-name="KCTV 광주 CH05 (720p) [Not 24/7]" group-title="国际综合",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="Lotte OneTV (720p)" tvg-name="Lotte OneTV (720p)" group-title="国际综合",Lotte OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" tvg-name="MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]" group-title="国际综合",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Jeju (제주 MBC) (352p) [Not 24/7]" tvg-name="MBC Jeju (제주 MBC) (352p) [Not 24/7]" group-title="国际综合",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" tvg-name="MBC Mokpo (목포 MBC) (720p) [Not 24/7]" group-title="国际综合",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV (720p)" tvg-name="NHTV (720p)" group-title="国际综合",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="NewKID2" tvg-name="NewKID2" group-title="国际综合",NewKID2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:-1 tvg-id="NewKID4" tvg-name="NewKID4" group-title="国际综合",NewKID4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+#EXTINF:-1 tvg-id="RNA" tvg-name="RNA" group-title="国际综合",RNA
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 tvg-id="SBS CJB (540p) [Not 24/7]" tvg-name="SBS CJB (540p) [Not 24/7]" group-title="国际综合",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Shopping NT (720p)" tvg-name="Shopping NT (720p)" group-title="国际综合",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="TV" tvg-name="TV" group-title="国际综合",TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="国际综合",TV1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="国际综合",TV3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 tvg-id="tvN1" tvg-name="tvN1" group-title="国际综合",tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+#EXTINF:-1 tvg-id="tvN2" tvg-name="tvN2" group-title="国际综合",tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 tvg-id="tvchosun2" tvg-name="tvchosun2" group-title="国际综合",tvchosun2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国EBS1" tvg-name="韩国EBS1" group-title="国际综合",韩国EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-id="韩国EBS2" tvg-name="韩国EBS2" group-title="国际综合",韩国EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 tvg-id="韩国音乐" tvg-name="韩国音乐" group-title="国际综合",韩国音乐
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" group-title="其他",新动力量创一流
+http://8.137.121.66:20241/713589837
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="公众号：熵侦",优漫卡通
+http://192.151.150.154/live/btvkk.m3u8
+http://107.150.60.122/live/ymkt.m3u8
+http://198.204.228.26/live/ymkt.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
+http://192.151.150.154/live/ymkt.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="公众号：熵侦",优漫卡通
+http://204.12.221.218:8181/3m1080p/ymkt.m3u8
+#EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" group-title="公众号：熵侦",优漫卡通频道
+http://103.236.77.86:29824/626064703
+http://www.ikerobot.com:1234/626064703
+http://222.213.105.65:7788/626064703
+http://8.137.121.66:20241/626064703
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="公众号：熵侦",北京纪实科教
+http://198.204.228.26/live/btv3.m3u8
+http://107.150.60.122/live/btv3.m3u8
+http://192.151.150.154/live/btv3.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="公众号：熵侦",嘉佳卡通
+http://103.236.77.86:29824/614952364
+http://222.213.105.65:7788/614952364
+http://107.150.60.122/live/gdjjkt.m3u8
+http://198.204.228.26/live/gdjjkt.m3u8
+http://192.151.150.154/live/gdjjkt.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="公众号：熵侦",嘉佳卡通
+http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" group-title="公众号：熵侦",国学频道
+http://198.204.228.26/live/gxpd.m3u8
+http://107.150.60.122/live/gxpd.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub
+http://192.151.150.154/live/gxpd.m3u8
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" group-title="公众号：熵侦",国学频道
+http://204.12.221.218:8181/3m1080p/gxpd.m3u8
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" group-title="公众号：熵侦",经典动画大集合
+http://222.213.105.65:7788/629942219
+http://103.236.77.86:29824/629942219
